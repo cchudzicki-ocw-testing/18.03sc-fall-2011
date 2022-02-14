@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Exponential Response
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Inhomogeneous DE's with Exponential Input
 uid: 1f1bda50-b607-8bd8-87ea-3ebf9d6a4def

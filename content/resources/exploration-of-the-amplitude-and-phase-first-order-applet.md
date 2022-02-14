@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Exponential Input; Gain and Phase Lag
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Exploration of the Amplitude and Phase: First Order Applet'
 uid: aca7deae-0e5f-78e9-388f-e168e353bcba

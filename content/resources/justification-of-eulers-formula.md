@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Complex Arithmetic and Exponentials
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Justification of Euler's Formula
 uid: ee87003f-f435-255a-a2c6-d0d74a5a8562

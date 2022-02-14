@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Modes and the Characteristic Equation
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Constant Coefficient Second Order Homogeneous DE's
 uid: 83553ff2-fc96-2ca4-4eb4-bae84e8b619f

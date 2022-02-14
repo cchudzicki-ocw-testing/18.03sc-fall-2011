@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Matrix Methods: Eigenvalues and Normal Modes'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Three Chamber Mixing Example: Repeated Roots'
 uid: af277524-6ff2-4691-7689-1772f97d09c6

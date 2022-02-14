@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit I: First Order Differential Equations'
+parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Basic DE's and Separable Equations
+type: CourseSection
 uid: 2f7fcab3-b55b-b888-a9aa-1c209df0024e
 ---
 

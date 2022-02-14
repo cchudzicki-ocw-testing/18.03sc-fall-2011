@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: ODE's with Periodic Input, Resonance
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Linear ODE's with Periodic Input
 uid: 0585a7f5-a71f-63ba-b254-18f1a01ec705

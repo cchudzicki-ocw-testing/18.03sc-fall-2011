@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Sinusoidal Functions
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Three Proofs of the Basic Trigonometric Identity
 uid: e8271177-a34b-e57a-8eb4-f6bacd48685f

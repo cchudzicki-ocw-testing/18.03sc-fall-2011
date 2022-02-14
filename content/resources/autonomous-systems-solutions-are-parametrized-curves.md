@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Linear Systems
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Autonomous Systems: Solutions are Parametrized Curves'
 uid: 1b5e9288-5cc9-5447-be52-472808a38a2d

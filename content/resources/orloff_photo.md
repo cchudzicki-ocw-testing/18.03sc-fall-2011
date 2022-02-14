@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: Orloff_Photo.jpg
+type: OCWImage
 uid: 6c5f3cb3-7de2-b55c-05db-357df3867b62
 ---

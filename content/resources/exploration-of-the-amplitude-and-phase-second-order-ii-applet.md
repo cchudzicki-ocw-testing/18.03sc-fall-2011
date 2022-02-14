@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Frequency Response and Practical Resonance
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Exploration of the Amplitude and Phase: Second Order II Applet'
 uid: 6345a2ea-3e2d-7507-d913-08711049d57d

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Transfer (System) and Weight Functions, Green's Formula
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Laplace Transform of Convolution
 uid: 782b8740-85c3-b866-5fb8-b32a4d04f781

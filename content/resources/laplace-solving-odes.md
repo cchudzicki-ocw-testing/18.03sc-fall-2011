@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Laplace Transform: Solving Initial Value Problems'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Laplace: Solving ODE''s'
 uid: cbe74fab-2af9-8655-a19f-14c56d28654a

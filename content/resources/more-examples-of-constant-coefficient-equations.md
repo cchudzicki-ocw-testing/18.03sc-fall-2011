@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: First Order Constant Coefficient Linear ODE's
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: More Examples of Constant Coefficient Equations
 uid: ce128c4a-c750-4759-36d5-4adc144eaa22

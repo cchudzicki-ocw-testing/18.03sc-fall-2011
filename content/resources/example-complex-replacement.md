@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Complex Arithmetic and Exponentials
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Example: Complex Replacement'
 uid: 22cff576-be4f-e73f-66f6-2be7853ae61e

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: First Order Autonomous Differential Equations
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: First Order Autonomous Equations
 uid: eba0fe33-f2df-9aa5-b546-5133e358d62c

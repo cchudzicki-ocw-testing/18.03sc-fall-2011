@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: 'Unit I: First Order Differential Equations'
+type: CourseSection
 uid: caf00851-e89b-da65-c746-04b48066d4ec
 ---
 

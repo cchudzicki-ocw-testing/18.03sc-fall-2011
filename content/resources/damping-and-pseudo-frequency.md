@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Damped Harmonic Oscillators
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Damping and Pseudo-Frequency
 uid: 98fbcbb7-83df-5371-6302-1290d2b93925

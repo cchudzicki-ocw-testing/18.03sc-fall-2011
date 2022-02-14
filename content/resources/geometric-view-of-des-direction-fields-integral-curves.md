@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Geometric Methods
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Geometric View of DE''s: Direction Fields, Integral Curves'
 uid: 3f8211c0-77ad-eea5-2aee-c2359fa32d56

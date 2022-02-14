@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: First Order Linear ODE's
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Linear First Order ODE''s: Definition'
 uid: 0a8aac95-3475-8dcc-bbbe-825e2af7f671

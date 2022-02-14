@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit I: First Order Differential Equations'
+parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Exponential Input; Gain and Phase Lag
+type: CourseSection
 uid: 4dc0b7d9-6276-143e-0c61-0888caefa273
 ---
 

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Matrix Methods: Eigenvalues and Normal Modes'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Matrix Systems: General Terminology'
 uid: f91965be-413f-d527-f7f8-816db6e0af0c

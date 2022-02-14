@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Qualitative Behavior: Phase Portraits'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Sketching Solutions
 uid: 1d3f0edd-4129-777f-63cd-415deb581f2d

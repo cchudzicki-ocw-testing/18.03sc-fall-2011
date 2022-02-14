@@ -4,7 +4,11 @@ description: This resource contains choices for the problem statements related t
   finding p(D).
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/72a94ced8318e4aa90754dfd8198deb3_MIT18_03SCF11_s30_2quizc.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Transfer (System) and Weight Functions, Green's Formula
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s30_2quizc.pdf
+type: OCWFile
 uid: 72a94ced-8318-e4aa-9075-4dfd8198deb3
 ---

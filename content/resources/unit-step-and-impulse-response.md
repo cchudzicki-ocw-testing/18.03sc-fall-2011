@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Unit Step and Unit Impulse Response
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Unit Step and Impulse Response
 uid: 6da3887c-bbe8-05e5-fa36-0af4e1d7e4c5

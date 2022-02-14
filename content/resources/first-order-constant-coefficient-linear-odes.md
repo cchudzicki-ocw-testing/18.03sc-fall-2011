@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: First Order Constant Coefficient Linear ODE's
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: First Order Constant Coefficient Linear ODE's
 uid: add7e683-d019-3f28-0cf4-eee04173f545

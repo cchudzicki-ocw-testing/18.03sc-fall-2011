@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit I: First Order Differential Equations'
+parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Linear vs. Nonlinear
+type: CourseSection
 uid: d47cf90f-d372-d21c-7812-510ff789a1e0
 ---
 

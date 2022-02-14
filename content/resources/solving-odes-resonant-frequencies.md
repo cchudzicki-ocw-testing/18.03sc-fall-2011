@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: ODE's with Periodic Input, Resonance
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Solving ODE's, Resonant Frequencies
 uid: 56ebb5e7-6c82-69e7-1e73-c3eceb3aec92

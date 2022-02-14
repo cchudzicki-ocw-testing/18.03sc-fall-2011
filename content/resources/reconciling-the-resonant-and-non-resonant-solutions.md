@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Pure Resonance
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Reconciling the Resonant and Non-resonant Solutions
 uid: ed5716e1-182d-90db-4fc4-dc2b1ddef5c9

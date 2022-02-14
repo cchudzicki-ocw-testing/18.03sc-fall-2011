@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Damped Harmonic Oscillators
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Damped Harmonic Oscillators
 uid: 0b66e8e5-06b1-62d6-340d-59e2ae7dd8cf

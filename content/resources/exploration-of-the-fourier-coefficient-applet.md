@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Operations on Fourier Series
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Exploration of the Fourier Coefficient Applet
 uid: e79b4f74-90db-20fb-99f6-aab2b4881c65

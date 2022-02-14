@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'
+parent_type: CourseSection
 resourcetype: Image
 title: figunit2page.jpg
+type: OCWImage
 uid: e16738de-fccd-9df7-b2d1-6b9f76a2aec3
 ---

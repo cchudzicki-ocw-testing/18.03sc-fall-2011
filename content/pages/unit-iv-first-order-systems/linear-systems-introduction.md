@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit IV: First-order Systems'
+parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: Linear Systems
+type: CourseSection
 uid: 7704ad07-83f7-1720-a984-a52df1fbe360
 ---
 

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Limitations of the Linear: Limit Cycles and Chaos'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Non-existence of Limit Cycles
 uid: ccf9e0b6-4c45-c8dc-449a-c9e0f0c2f873

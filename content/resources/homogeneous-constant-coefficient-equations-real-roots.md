@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Modes and the Characteristic Equation
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Homogeneous Constant Coefficient Equations: Real Roots'
 uid: eb51eff7-b1fc-dae8-00b7-2f79ebf9ee69

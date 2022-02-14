@@ -4,7 +4,11 @@ description: This resource contains information related to exponential input; ga
   and phase lag.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/c7946116fea82c1e653a529260b6e3bb_MIT18_03SCF11_s9_0intro.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Exponential Input; Gain and Phase Lag
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s9_0intro.pdf
+type: OCWFile
 uid: c7946116-fea8-2c1e-653a-529260b6e3bb
 ---

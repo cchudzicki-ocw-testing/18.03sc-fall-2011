@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Matrix Methods: Eigenvalues and Normal Modes'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Linear Systems: Matrix Methods'
 uid: 64263044-bb98-247b-d6cc-55c1441ffb1c

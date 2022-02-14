@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit I: First Order Differential Equations'
+parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Geometric Methods
+type: CourseSection
 uid: 86c3ecfb-976d-d6c8-1796-f0e0e78ca617
 ---
 

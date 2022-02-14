@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Limitations of the Linear: Limit Cycles and Chaos'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Limit Cycles
 uid: 40e18c80-c501-799f-0dbd-74c07a737f7e

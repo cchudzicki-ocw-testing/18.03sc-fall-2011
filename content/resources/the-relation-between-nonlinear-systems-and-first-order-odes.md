@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Nonlinear Systems
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Relation Between Nonlinear Systems and First-order ODE's
 uid: d4f50d26-ee0c-70dc-8f44-ea99142c62e3

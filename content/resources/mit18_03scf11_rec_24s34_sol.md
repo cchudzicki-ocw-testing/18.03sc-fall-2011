@@ -4,7 +4,11 @@ description: This resource contains solutions for the problem statements related
   phase portraits.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/96f2dff6d0c268e4d081f7fa5a9e4a02_MIT18_03SCF11_rec_24s34_sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Qualitative Behavior: Phase Portraits'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_rec_24s34_sol.pdf
+type: OCWFile
 uid: 96f2dff6-d0c2-68e4-d081-f7fa5a9e4a02
 ---
