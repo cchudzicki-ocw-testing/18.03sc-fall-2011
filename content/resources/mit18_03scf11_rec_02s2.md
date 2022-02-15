@@ -4,6 +4,7 @@ description: This resource contains practice problems related to geometric metho
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/43ea9f63e71290be36ac9738e2b0bafc_MIT18_03SCF11_rec_02s2.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Geometric Methods
 parent_type: CourseSection
 resourcetype: Document

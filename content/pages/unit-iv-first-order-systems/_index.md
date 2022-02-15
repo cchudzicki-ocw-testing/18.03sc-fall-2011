@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit IV: First-order Systems'
 uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 ---

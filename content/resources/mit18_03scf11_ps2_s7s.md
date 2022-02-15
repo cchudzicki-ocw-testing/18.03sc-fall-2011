@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/043469ff45b2dcb23a5a92080db9e732_MIT18_03SCF11_ps2_s7s.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Sinusoidal Functions
 parent_type: CourseSection
 resourcetype: Document

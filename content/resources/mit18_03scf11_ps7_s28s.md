@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/22bfcf5fd6f2db3f2734c2476913e3ad_MIT18_03SCF11_ps7_s28s.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Partial Fractions and Inverse Laplace Transform
 parent_type: CourseSection
 resourcetype: Document

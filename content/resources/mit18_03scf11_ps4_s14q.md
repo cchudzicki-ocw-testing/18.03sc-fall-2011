@@ -5,6 +5,7 @@ description: This resource contains practice problem statements related to expon
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/bae8fb818b32f461d4109539d364eb6d_MIT18_03SCF11_ps4_s14q.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Exponential Response
 parent_type: CourseSection
 resourcetype: Document

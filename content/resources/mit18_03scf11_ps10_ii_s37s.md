@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/337ccf19a2589badb4021acc170d4c4f_MIT18_03SCF11_ps10_II_s37s.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Linearization Near Critical Points
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/e2ec9382461bbe5345e04e602cbaf63a_Daimp.jar
 file_type: application/java-archive
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: First Order Autonomous Differential Equations
 parent_type: CourseSection
 resourcetype: Other

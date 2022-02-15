@@ -4,6 +4,7 @@ description: This resource contains problem statements related to geometric meth
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/4a330b0e7a481962d405fc87f2210a9a_MIT18_03SCF11_ps1_II_s2s.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Geometric Methods
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: 'This resource contains information related to linear phase portrai
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/94dc5d4ef9a2fd1e7f5535804815e2cc_MIT18_03SCF11_s32_8appl.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Linear Systems
 parent_type: CourseSection
 resourcetype: Document

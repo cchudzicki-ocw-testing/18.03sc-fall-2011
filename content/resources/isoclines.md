@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/a74068c0c53bb0b1041711e5471d5363_Isoclines.jar
 file_type: application/java-archive
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Geometric Methods
 parent_type: CourseSection
 resourcetype: Other

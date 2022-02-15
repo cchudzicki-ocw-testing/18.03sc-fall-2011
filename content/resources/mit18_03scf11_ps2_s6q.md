@@ -4,6 +4,7 @@ description: This resource contains problem statements related to complex arithm
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/6a5b3759fd8cd40717df5e01b5340bcf_MIT18_03SCF11_ps2_s6q.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Complex Arithmetic and Exponentials
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/7169e738b09ff53ad07c98b34c1673f7_MIT18_03SCF11_ps6_II_s23s.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: ODE's with Periodic Input, Resonance
 parent_type: CourseSection
 resourcetype: Document

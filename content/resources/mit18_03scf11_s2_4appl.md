@@ -4,6 +4,7 @@ description: This resource contains information related to isoclines applet.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/26ccf8fa2f106ab2c32d0f91c122cf62_MIT18_03SCF11_s2_4appl.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Geometric Methods
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: 'This resource contains problem statements related to linear system
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/27372418268136af3a6d43a20524b151_MIT18_03SCF11_ps8_s32q.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Linear Systems
 parent_type: CourseSection
 resourcetype: Document

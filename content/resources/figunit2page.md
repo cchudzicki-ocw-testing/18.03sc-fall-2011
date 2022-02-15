@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'
 parent_type: CourseSection
 resourcetype: Image

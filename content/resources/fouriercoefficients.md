@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/f879453f5d2dd6325f2af450958d232f_FourierCoefficients.jar
 file_type: application/java-archive
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Operations on Fourier Series
 parent_type: CourseSection
 resourcetype: Other

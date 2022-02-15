@@ -4,6 +4,7 @@ description: This resource contains problem statements related to sinusoidal fun
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/f36e0b01950b4ac0a77ca8ba7490e3ca_MIT18_03SCF11_ps2_s7q.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Sinusoidal Functions
 parent_type: CourseSection
 resourcetype: Document

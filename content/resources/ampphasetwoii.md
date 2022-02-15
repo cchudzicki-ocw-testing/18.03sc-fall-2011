@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/e3080eaa901f52086a2b939774e5d179_AmpPhaseTwoII.jar
 file_type: application/java-archive
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Frequency Response and Practical Resonance
 parent_type: CourseSection
 resourcetype: Other

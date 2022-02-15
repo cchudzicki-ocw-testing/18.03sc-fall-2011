@@ -4,6 +4,7 @@ description: This resource contains problems for practice.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/fcff18bb3c6bea542bf311e0c66726bc_MIT18_03SCF11_rec_01s1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Basic DE's and Separable Equations
 parent_type: CourseSection
 resourcetype: Document

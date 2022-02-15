@@ -5,6 +5,7 @@ description: 'This resource contains information related to amplitude and phase:
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/858a30c02ea4d0233603eb32bb44c3a9_MIT18_03SCF11_s19_6appl.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Frequency Response and Practical Resonance
 parent_type: CourseSection
 resourcetype: Document

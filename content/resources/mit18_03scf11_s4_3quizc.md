@@ -5,6 +5,7 @@ description: This resource contains choices for the problem statements related t
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/4d95feb8ba35efc5addfb2f4d9ab735c_MIT18_03SCF11_s4_3quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: First Order Linear ODE's
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/092c0682b08e0eba48f4c44bdf9d3da4_Daimp.jar
 file_type: application/java-archive
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Qualitative Behavior: Phase Portraits'
 parent_type: CourseSection
 resourcetype: Other

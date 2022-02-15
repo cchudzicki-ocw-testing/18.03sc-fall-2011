@@ -4,6 +4,7 @@ description: This resource contains information related to undamped forced syste
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/a48abcf980f60d8b8b31ccf8cc2bba4a_MIT18_03SCF11_s18_2text.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Pure Resonance
 parent_type: CourseSection
 resourcetype: Document

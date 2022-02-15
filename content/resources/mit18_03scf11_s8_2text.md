@@ -5,6 +5,7 @@ description: This resource contains information related to examples of constant 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/405eab6315cacca040f25ed7293af29f_MIT18_03SCF11_s8_2text.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: First Order Constant Coefficient Linear ODE's
 parent_type: CourseSection
 resourcetype: Document

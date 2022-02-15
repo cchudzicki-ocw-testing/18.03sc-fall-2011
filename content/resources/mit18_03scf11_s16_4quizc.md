@@ -5,6 +5,7 @@ description: This resource contains choices for the problem statements related t
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/5bbd0035d808f31e571381bb46a565a5_MIT18_03SCF11_s16_4quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Undetermined Coefficients
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource contains solutions for the practice problem statement
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/4c10b99470bf48023b94537482dc742b_MIT18_03SCF11_ps4_s14s.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Exponential Response
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/81af24ebf4d82db499963b82491368c4_MIT18_03SCF11_ps6_s25s.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Unit Step and Unit Impulse Response
 parent_type: CourseSection
 resourcetype: Document
