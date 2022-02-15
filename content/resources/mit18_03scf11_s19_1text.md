@@ -9,6 +9,5 @@ parent_title: Frequency Response and Practical Resonance
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s19_1text.pdf
-type: OCWFile
 uid: 01f43faa-006b-a312-78eb-6e819c35a771
 ---

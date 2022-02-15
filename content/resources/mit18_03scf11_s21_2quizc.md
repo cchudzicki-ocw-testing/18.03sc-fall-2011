@@ -9,6 +9,5 @@ parent_title: 'Fourier Series: Basics'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s21_2quizc.pdf
-type: OCWFile
 uid: 469b9c04-4f1e-fc5a-1aa8-1c5a7bc9b4f0
 ---

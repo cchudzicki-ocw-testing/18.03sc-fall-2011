@@ -8,6 +8,5 @@ parent_title: Solution by Integrating Factors
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Part II Problems'
-type: OCWFile
 uid: d42eedc9-13cf-3ae1-1168-4e3ad7380619
 ---

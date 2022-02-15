@@ -8,6 +8,5 @@ parent_title: Convolution
 parent_type: CourseSection
 resourcetype: Other
 title: SeriesRLCCircuit.jar
-type: OCWFile
 uid: 1d35340d-d849-0673-66c0-214aa73fdd32
 ---

@@ -9,6 +9,5 @@ parent_title: Solution by Integrating Factors
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s5_3quizc.pdf
-type: OCWFile
 uid: 01404df2-f262-fe02-c461-8b18e1ebdd34
 ---

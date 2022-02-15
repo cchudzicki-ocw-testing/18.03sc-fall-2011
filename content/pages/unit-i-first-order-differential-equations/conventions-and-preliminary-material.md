@@ -5,7 +5,6 @@ parent_title: 'Unit I: First Order Differential Equations'
 parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Conventions and Preliminary Material
-type: CourseSection
 uid: 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8
 ---
 

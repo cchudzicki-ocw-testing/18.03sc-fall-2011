@@ -8,6 +8,5 @@ parent_title: Transfer (System) and Weight Functions, Green's Formula
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s30_2quizq.pdf
-type: OCWFile
 uid: 80867dbf-2207-3bdf-dff9-dcdab902c79d
 ---

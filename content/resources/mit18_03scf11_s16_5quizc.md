@@ -9,6 +9,5 @@ parent_title: Undetermined Coefficients
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s16_5quizc.pdf
-type: OCWFile
 uid: 635d1cae-7061-8530-e333-43bc8739a117
 ---

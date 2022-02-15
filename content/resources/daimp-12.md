@@ -8,6 +8,5 @@ parent_title: Poles, Amplitude Response, Connection to ERF
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: 79d2bac7-a649-77e5-2458-94d947302aa3
 ---

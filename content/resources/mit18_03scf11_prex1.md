@@ -8,6 +8,5 @@ parent_title: Exam 1
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: 18.03SC Unit 1 Practice Exam and Solutions'
-type: OCWFile
 uid: 80399ae4-acee-749e-eb8b-95238219ed01
 ---

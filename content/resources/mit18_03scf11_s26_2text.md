@@ -8,6 +8,5 @@ parent_title: Convolution
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Green''s Formula'
-type: OCWFile
 uid: d817b6b2-81c2-87ac-6f99-ad2ee2ddc0d8
 ---

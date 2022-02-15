@@ -12,6 +12,5 @@ parent_title: Meet the TAs
 parent_type: CourseSection
 resourcetype: Image
 title: Lydia_photo.jpg
-type: OCWImage
 uid: e37c63ce-e599-15c4-e2ce-1910dc246aef
 ---

@@ -8,6 +8,5 @@ parent_title: Geometric Methods
 parent_type: CourseSection
 resourcetype: Other
 title: Isoclines.jar
-type: OCWFile
 uid: a74068c0-c53b-b0b1-0417-11e5471d5363
 ---

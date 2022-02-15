@@ -9,6 +9,5 @@ parent_title: Complex Arithmetic and Exponentials
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s6_4quizc.pdf
-type: OCWFile
 uid: 738c19fc-a80a-ce0d-fc3b-3611e353a8ae
 ---

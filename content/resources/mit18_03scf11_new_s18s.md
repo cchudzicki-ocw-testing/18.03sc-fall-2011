@@ -9,6 +9,5 @@ parent_title: Pure Resonance
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_new_s18s.pdf
-type: OCWFile
 uid: f27eda5c-2824-80d6-5269-507d84371ef9
 ---

@@ -9,6 +9,5 @@ parent_title: 'Laplace Transform: Basics'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s27_4quiza.pdf
-type: OCWFile
 uid: 9bed7079-f1be-8285-25ba-9a69d55cea7b
 ---

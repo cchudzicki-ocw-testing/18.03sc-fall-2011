@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Existence and Uniqueness and Superposition in the General
   Case'
-type: OCWFile
 uid: 8ae57eb3-92d8-5ce6-9296-5b97dda608fc
 ---

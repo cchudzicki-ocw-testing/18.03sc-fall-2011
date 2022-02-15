@@ -9,6 +9,5 @@ parent_title: First Order Autonomous Differential Equations
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Part II Problems and Solutions'
-type: OCWFile
 uid: 62bd57fd-fa91-7016-d474-2aedc38cb0a8
 ---

@@ -12,6 +12,5 @@ parent_title: 'Unit I: First Order Differential Equations'
 parent_type: CourseSection
 resourcetype: Image
 title: figunit1page.jpg
-type: OCWImage
 uid: 39a4708b-3543-c56a-61fc-aa4cc29788fc
 ---

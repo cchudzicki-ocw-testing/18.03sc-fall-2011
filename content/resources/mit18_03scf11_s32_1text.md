@@ -8,6 +8,5 @@ parent_title: Linear Systems
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s32_1text.pdf
-type: OCWFile
 uid: 4bb4e6f6-541b-1a8f-f20a-21a9ec1dc4e1
 ---

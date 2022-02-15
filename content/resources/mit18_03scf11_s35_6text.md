@@ -9,6 +9,5 @@ parent_title: Matrix Exponentials
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: The Normalized Fundamental Matrix'
-type: OCWFile
 uid: 843a866a-caa1-4009-ace6-9ff67c99a0a6
 ---

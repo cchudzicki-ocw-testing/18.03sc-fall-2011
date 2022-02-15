@@ -8,6 +8,5 @@ parent_title: 'Matrix Methods: Eigenvalues and Normal Modes'
 parent_type: CourseSection
 resourcetype: Other
 title: MatrixVector.jar
-type: OCWFile
 uid: 1a955708-a16e-052b-7597-3f8953fe6a72
 ---

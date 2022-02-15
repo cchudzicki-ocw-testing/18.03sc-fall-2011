@@ -8,6 +8,5 @@ parent_title: Linear vs. Nonlinear
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s11_0intro.pdf
-type: OCWFile
 uid: cb62fdc1-38e0-e021-5759-bee235f223ad
 ---

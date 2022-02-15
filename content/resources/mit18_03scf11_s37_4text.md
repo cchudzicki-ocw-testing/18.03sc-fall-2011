@@ -9,6 +9,5 @@ parent_title: Linearization Near Critical Points
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s37_4text.pdf
-type: OCWFile
 uid: d64bd7cc-2922-c275-8262-9d45f3cdb5a3
 ---

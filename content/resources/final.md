@@ -12,6 +12,5 @@ parent_title: Final Exam
 parent_type: CourseSection
 resourcetype: Image
 title: final.jpg
-type: OCWImage
 uid: 349704a0-23c2-1bb2-c64a-db7c3a0938c9
 ---

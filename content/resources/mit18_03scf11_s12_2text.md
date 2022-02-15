@@ -8,6 +8,5 @@ parent_title: Modes and the Characteristic Equation
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s12_2text.pdf
-type: OCWFile
 uid: 7d88accc-b95a-5ab7-2d6b-244a75eee7af
 ---

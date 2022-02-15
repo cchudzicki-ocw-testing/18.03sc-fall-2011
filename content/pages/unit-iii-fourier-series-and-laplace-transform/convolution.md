@@ -5,7 +5,6 @@ parent_title: 'Unit III: Fourier Series and Laplace Transform'
 parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: Convolution
-type: CourseSection
 uid: 4529e4db-06c2-1cf9-bf59-359267d96fa8
 ---
 

@@ -9,6 +9,5 @@ parent_title: Linear Systems
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: 18.03SC Practice Problems 32'
-type: OCWFile
 uid: 8615b6eb-4d8f-6734-8a2b-5563b4c49c66
 ---

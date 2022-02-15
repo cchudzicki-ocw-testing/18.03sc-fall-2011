@@ -8,6 +8,5 @@ parent_title: Numerical Methods
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: 90aeff2a-06b4-a8a6-6207-7a569be99f50
 ---

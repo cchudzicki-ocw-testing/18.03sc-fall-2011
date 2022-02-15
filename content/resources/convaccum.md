@@ -8,6 +8,5 @@ parent_title: Convolution
 parent_type: CourseSection
 resourcetype: Other
 title: ConvAccum.jar
-type: OCWFile
 uid: e27a5c1a-1e5b-4271-8f03-10c5f8b5e24e
 ---

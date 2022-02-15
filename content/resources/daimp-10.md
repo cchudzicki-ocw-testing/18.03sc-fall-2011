@@ -8,6 +8,5 @@ parent_title: ODE's with Periodic Input, Resonance
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: 5119d1ca-19ed-6823-3a3c-6819727dc853
 ---

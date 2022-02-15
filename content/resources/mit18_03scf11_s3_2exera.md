@@ -9,6 +9,5 @@ parent_title: Numerical Methods
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s3_2exera.pdf
-type: OCWFile
 uid: 7f9b958d-07c4-e127-ec5a-e0ceb2f10c38
 ---

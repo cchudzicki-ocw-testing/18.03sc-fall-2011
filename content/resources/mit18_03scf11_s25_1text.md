@@ -8,6 +8,5 @@ parent_title: Unit Step and Unit Impulse Response
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s25_1text.pdf
-type: OCWFile
 uid: de5258d6-ad8c-3a06-a1b9-89017c41061b
 ---

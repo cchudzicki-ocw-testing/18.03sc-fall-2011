@@ -8,6 +8,5 @@ parent_title: Complex Arithmetic and Exponentials
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Part II Problems'
-type: OCWFile
 uid: 86408293-0d63-6fec-e23e-07ff8fb0895f
 ---

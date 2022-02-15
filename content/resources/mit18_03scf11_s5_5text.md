@@ -9,6 +9,5 @@ parent_title: Solution by Integrating Factors
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Superposition and the Integrating Factors Solution'
-type: OCWFile
 uid: da594c6c-5f92-5ef8-4841-5d049a01f805
 ---

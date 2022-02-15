@@ -8,6 +8,5 @@ parent_title: Damped Harmonic Oscillators
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: bca278d5-a0b6-0e76-5d4f-a23a88a68732
 ---

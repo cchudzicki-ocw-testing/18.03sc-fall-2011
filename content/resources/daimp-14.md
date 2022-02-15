@@ -8,6 +8,5 @@ parent_title: 'Matrix Methods: Eigenvalues and Normal Modes'
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: 2abe97ab-7b22-af34-bc1e-9ea4ea977101
 ---

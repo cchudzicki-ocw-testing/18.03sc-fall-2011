@@ -9,6 +9,5 @@ parent_title: 'Matrix Methods: Eigenvalues and Normal Modes'
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: General Case: Eigenvalues and Eigenvectors'
-type: OCWFile
 uid: 529e451e-6243-dd52-aae0-f184f882b986
 ---

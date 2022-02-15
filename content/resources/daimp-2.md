@@ -8,6 +8,5 @@ parent_title: Complex Arithmetic and Exponentials
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: 6c1d0207-0703-1363-e4ee-4f82e997ea80
 ---

@@ -9,6 +9,5 @@ parent_title: Linear Systems
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s32_5exera.pdf
-type: OCWFile
 uid: 319311bf-191f-b56e-95f9-32a1c8d0e719
 ---

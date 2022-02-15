@@ -9,6 +9,5 @@ parent_title: Frequency Response and Practical Resonance
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Mechanical Vibration System: Driving Through the Spring'
-type: OCWFile
 uid: a8b0a095-4827-8895-711a-50d9babce7ff
 ---

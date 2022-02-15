@@ -9,6 +9,5 @@ parent_title: Undetermined Coefficients
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 quiz: Solutions to Polynomial Input'
-type: OCWFile
 uid: 5bbd0035-d808-f31e-5713-81bb46a565a5
 ---

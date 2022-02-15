@@ -8,6 +8,5 @@ parent_title: 'Laplace Transform: Basics'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s27_5text.pdf
-type: OCWFile
 uid: 8e19336e-1e41-3c0e-9ddb-ea5a2bc00321
 ---

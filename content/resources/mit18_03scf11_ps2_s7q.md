@@ -8,6 +8,5 @@ parent_title: Sinusoidal Functions
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Part I Problems'
-type: OCWFile
 uid: f36e0b01-950b-4ac0-a77c-a8ba7490e3ca
 ---

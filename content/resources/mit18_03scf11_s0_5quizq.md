@@ -8,6 +8,5 @@ parent_title: Conventions and Preliminary Material
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s0_5quizq.pdf
-type: OCWFile
 uid: 2b37d789-5652-43bc-a69c-042dd76fee5c
 ---

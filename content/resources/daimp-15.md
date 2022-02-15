@@ -8,6 +8,5 @@ parent_title: 'Qualitative Behavior: Phase Portraits'
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: 092c0682-b08e-0eba-48f4-c44bdf9d3da4
 ---

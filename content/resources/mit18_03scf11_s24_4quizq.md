@@ -9,6 +9,5 @@ parent_title: 'Step and Delta Functions: Integrals and Generalized Derivatives'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s24_4quizq.pdf
-type: OCWFile
 uid: 6c4637c6-617c-7ccf-1f88-8c1127e0801d
 ---

@@ -9,6 +9,5 @@ parent_title: 'Qualitative Behavior: Phase Portraits'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_ps9_s34s.pdf
-type: OCWFile
 uid: 5598e755-7f9f-a1eb-4cb8-aa9cb3a2f8c3
 ---

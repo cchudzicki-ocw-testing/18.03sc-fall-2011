@@ -8,6 +8,5 @@ parent_title: Exam 2
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_prex2.pdf
-type: OCWFile
 uid: d4a24ca8-8c85-1a0c-9283-889d161883ea
 ---

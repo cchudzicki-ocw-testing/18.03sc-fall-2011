@@ -9,6 +9,5 @@ parent_title: Nonlinear Systems
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s36_2text.pdf
-type: OCWFile
 uid: 21296ad5-e24d-27d3-5d9b-8514c988a3b4
 ---

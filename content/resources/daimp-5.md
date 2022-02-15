@@ -8,6 +8,5 @@ parent_title: First Order Autonomous Differential Equations
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: e2ec9382-461b-be53-45e0-4e602cbaf63a
 ---

@@ -8,6 +8,5 @@ parent_title: 'Applications: LRC Circuits'
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: 6000507b-919c-be11-467f-1fa40715280e
 ---

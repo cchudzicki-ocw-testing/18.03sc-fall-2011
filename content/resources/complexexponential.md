@@ -8,6 +8,5 @@ parent_title: Complex Arithmetic and Exponentials
 parent_type: CourseSection
 resourcetype: Other
 title: ComplexExponential.jar
-type: OCWFile
 uid: d17db530-117b-0d2a-d0b0-15af8467f3e9
 ---

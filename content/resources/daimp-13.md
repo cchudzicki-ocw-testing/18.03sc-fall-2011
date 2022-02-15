@@ -8,6 +8,5 @@ parent_title: Linear Systems
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: bc1cea9e-0f42-a885-83f2-042f27f3e78a
 ---

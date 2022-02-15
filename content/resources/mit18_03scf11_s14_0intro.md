@@ -8,6 +8,5 @@ parent_title: Exponential Response
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 intro: Introduction'
-type: OCWFile
 uid: 9b630c3e-dc2f-03d5-819d-6c8835678e5a
 ---

@@ -8,6 +8,5 @@ parent_title: First Order Autonomous Differential Equations
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s10_4quizq.pdf
-type: OCWFile
 uid: 13d0941d-2525-41f3-8097-a5c6f27a535a
 ---

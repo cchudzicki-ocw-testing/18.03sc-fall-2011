@@ -8,6 +8,5 @@ parent_title: Sinusoidal Functions
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: 8d8c63e7-9cc9-a1c9-205f-5c7c74009ff5
 ---

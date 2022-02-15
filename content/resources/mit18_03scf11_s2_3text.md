@@ -9,6 +9,5 @@ parent_title: Geometric Methods
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s2_3text.pdf
-type: OCWFile
 uid: d67e32aa-e7f8-ff49-0315-52dacdc15a42
 ---

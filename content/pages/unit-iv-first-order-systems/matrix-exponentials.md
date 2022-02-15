@@ -5,7 +5,6 @@ parent_title: 'Unit IV: First-order Systems'
 parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: Matrix Exponentials
-type: CourseSection
 uid: 740fe4ca-9f7f-5daf-cec7-50013536f3c9
 ---
 

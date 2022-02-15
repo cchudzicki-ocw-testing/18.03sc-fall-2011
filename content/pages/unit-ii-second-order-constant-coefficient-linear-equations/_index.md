@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Unit II: Second Order Constant Coefficient Linear Equations'
-type: CourseSection
 uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 ---
 

@@ -8,6 +8,5 @@ parent_title: Sinusoidal Functions
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_rec_05s7.pdf
-type: OCWFile
 uid: 257d2734-41b3-18d1-e94c-9f5b34fad474
 ---

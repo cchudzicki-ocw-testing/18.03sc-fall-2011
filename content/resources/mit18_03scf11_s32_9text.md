@@ -8,6 +8,5 @@ parent_title: Linear Systems
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: The Companion Matrix'
-type: OCWFile
 uid: f1cedd18-c1ec-e004-5e03-d9bd8ff63ca8
 ---

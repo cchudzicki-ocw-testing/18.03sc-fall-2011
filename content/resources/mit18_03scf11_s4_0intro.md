@@ -8,6 +8,5 @@ parent_title: First Order Linear ODE's
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s4_0intro.pdf
-type: OCWFile
 uid: e110d0cd-09a9-9a10-5a8b-e84933819649
 ---

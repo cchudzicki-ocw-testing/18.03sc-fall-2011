@@ -8,6 +8,5 @@ parent_title: ODE's with Periodic Input, Resonance
 parent_type: CourseSection
 resourcetype: Other
 title: FourierCoefficientsComplexWithSound.jar
-type: OCWFile
 uid: 91357d00-1d5e-badf-bb15-14941327c040
 ---

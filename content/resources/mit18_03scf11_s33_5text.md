@@ -8,6 +8,5 @@ parent_title: 'Matrix Methods: Eigenvalues and Normal Modes'
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Worked Example: Distinct Real Roots'
-type: OCWFile
 uid: 2659ec37-22be-2ef0-4b5a-abf93331329f
 ---

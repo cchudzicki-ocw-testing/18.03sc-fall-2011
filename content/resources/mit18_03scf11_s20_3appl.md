@@ -8,6 +8,5 @@ parent_title: 'Applications: LRC Circuits'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s20_3appl.pdf
-type: OCWFile
 uid: 9ef66c39-1115-572c-927c-04be9dff5321
 ---

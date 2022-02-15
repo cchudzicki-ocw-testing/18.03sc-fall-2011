@@ -9,6 +9,5 @@ parent_title: First Order Linear ODE's
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s4_1text.pdf
-type: OCWFile
 uid: acc65618-b350-25a2-e9db-939ec35b1de5
 ---

@@ -8,6 +8,5 @@ parent_title: 'Qualitative Behavior: Phase Portraits'
 parent_type: CourseSection
 resourcetype: Other
 title: LinPhasePorCursor.jar
-type: OCWFile
 uid: 250ae708-1d83-a6e9-4258-bb1c2687d7c9
 ---

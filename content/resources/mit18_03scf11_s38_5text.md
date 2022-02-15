@@ -8,6 +8,5 @@ parent_title: 'Limitations of the Linear: Limit Cycles and Chaos'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s38_5text.pdf
-type: OCWFile
 uid: 7f266a36-8413-26e9-2035-f555c26eacf6
 ---

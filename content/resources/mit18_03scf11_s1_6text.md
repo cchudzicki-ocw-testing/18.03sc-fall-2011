@@ -9,6 +9,5 @@ parent_title: Basic DE's and Separable Equations
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s1_6text.pdf
-type: OCWFile
 uid: 1ce2cf78-3d5f-1d15-ee41-1ec2e5f928ec
 ---

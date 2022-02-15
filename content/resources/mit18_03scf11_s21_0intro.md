@@ -8,6 +8,5 @@ parent_title: 'Fourier Series: Basics'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s21_0intro.pdf
-type: OCWFile
 uid: bbd5d082-6e54-0777-e597-8f1f6faffb63
 ---

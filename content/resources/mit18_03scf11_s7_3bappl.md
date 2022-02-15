@@ -9,6 +9,5 @@ parent_title: Sinusoidal Functions
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 applet: Applet Exploration: Trigonometric Identity'
-type: OCWFile
 uid: 0748b042-2dfa-df10-b59c-bbff33d90530
 ---

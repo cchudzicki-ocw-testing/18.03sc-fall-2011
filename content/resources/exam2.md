@@ -12,6 +12,5 @@ parent_title: Exam 2
 parent_type: CourseSection
 resourcetype: Image
 title: exam2.jpg
-type: OCWImage
 uid: 2643355d-e485-9af8-2a43-0c199041f481
 ---

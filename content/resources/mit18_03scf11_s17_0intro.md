@@ -9,6 +9,5 @@ parent_title: Linear Operators, Linear Time Invariance
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s17_0intro.pdf
-type: OCWFile
 uid: 9f4b45ba-5768-d010-1ef7-72f3958b1bf3
 ---

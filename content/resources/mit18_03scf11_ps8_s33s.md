@@ -9,6 +9,5 @@ parent_title: 'Matrix Methods: Eigenvalues and Normal Modes'
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Part I Problems and Solutions'
-type: OCWFile
 uid: d22ac33f-a9f7-eb7d-2e9b-1b47f332f793
 ---

@@ -8,6 +8,5 @@ parent_title: Exponential Response
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s14_4text.pdf
-type: OCWFile
 uid: db0d09cb-638a-eab0-707e-1e8b18d2169d
 ---

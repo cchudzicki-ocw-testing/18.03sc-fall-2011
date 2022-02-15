@@ -8,6 +8,5 @@ parent_title: Sinusoidal Functions
 parent_type: CourseSection
 resourcetype: Other
 title: TrigId.jar
-type: OCWFile
 uid: 4cf1b75e-c8dd-2652-4207-c461e3f867c8
 ---

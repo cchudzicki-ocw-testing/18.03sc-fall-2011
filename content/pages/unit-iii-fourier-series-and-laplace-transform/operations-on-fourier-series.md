@@ -5,7 +5,6 @@ parent_title: 'Unit III: Fourier Series and Laplace Transform'
 parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: Operations on Fourier Series
-type: CourseSection
 uid: ca45c161-8345-1041-6c66-419481c20e93
 ---
 

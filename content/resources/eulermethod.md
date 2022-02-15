@@ -8,6 +8,5 @@ parent_title: Numerical Methods
 parent_type: CourseSection
 resourcetype: Other
 title: EulerMethod.jar
-type: OCWFile
 uid: 2234b85d-4b14-a422-1dd0-437e83f0477e
 ---

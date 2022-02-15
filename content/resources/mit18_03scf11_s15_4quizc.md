@@ -9,6 +9,5 @@ parent_title: Gain and Phase Lag
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s15_4quizc.pdf
-type: OCWFile
 uid: 3ec2da4f-f856-229b-298a-58b5a11c678d
 ---

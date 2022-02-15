@@ -8,6 +8,5 @@ parent_title: Poles, Amplitude Response, Connection to ERF
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Pole Diagrams'
-type: OCWFile
 uid: 240f3b11-fd6c-1d81-f8e1-ed61e1683d8a
 ---

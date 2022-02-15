@@ -8,6 +8,5 @@ parent_title: 'Laplace Transform: Solving Initial Value Problems'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s29_5text.pdf
-type: OCWFile
 uid: f71359b8-bb98-e6bb-b7ba-591c349b6886
 ---

@@ -9,6 +9,5 @@ parent_title: Exponential Input; Gain and Phase Lag
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s9_0intro.pdf
-type: OCWFile
 uid: c7946116-fea8-2c1e-653a-529260b6e3bb
 ---

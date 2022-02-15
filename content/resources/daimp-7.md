@@ -8,6 +8,5 @@ parent_title: Frequency Response and Practical Resonance
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: edb8704e-f339-64f2-6ba0-1178b8cefeba
 ---

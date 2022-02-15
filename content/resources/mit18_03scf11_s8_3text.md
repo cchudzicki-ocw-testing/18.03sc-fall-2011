@@ -9,6 +9,5 @@ parent_title: First Order Constant Coefficient Linear ODE's
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s8_3text.pdf
-type: OCWFile
 uid: 9c1fa19e-2cb4-5c14-71de-1f71aac823d7
 ---

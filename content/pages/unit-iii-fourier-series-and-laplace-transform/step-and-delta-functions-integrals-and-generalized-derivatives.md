@@ -5,7 +5,6 @@ parent_title: 'Unit III: Fourier Series and Laplace Transform'
 parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: 'Step and Delta Functions: Integrals and Generalized Derivatives'
-type: CourseSection
 uid: e1ac4e84-0236-d0ba-8b39-96546ae414c9
 ---
 

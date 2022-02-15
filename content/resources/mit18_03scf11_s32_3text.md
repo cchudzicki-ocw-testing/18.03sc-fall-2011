@@ -8,6 +8,5 @@ parent_title: Linear Systems
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Review of Vectors and Matrices'
-type: OCWFile
 uid: dd36d8ca-12ff-afd5-a9d8-f8bf9753a199
 ---

@@ -9,6 +9,5 @@ parent_title: Partial Fractions and Inverse Laplace Transform
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_ps7_s28s.pdf
-type: OCWFile
 uid: 22bfcf5f-d6f2-db3f-2734-c2476913e3ad
 ---

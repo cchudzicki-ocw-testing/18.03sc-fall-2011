@@ -9,6 +9,5 @@ parent_title: 'Fourier Series: Basics'
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 quiz: Quiz: Cosines with Common Frequecies'
-type: OCWFile
 uid: 060cc4ea-cdf6-a083-85d0-ba61efc8e6fa
 ---

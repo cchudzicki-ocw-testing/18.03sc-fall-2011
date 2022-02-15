@@ -8,6 +8,5 @@ parent_title: Conventions and Preliminary Material
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s0_3text.pdf
-type: OCWFile
 uid: 66850a89-d481-6661-33ca-5a0db20076c5
 ---

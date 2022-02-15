@@ -8,6 +8,5 @@ parent_title: 'Matrix Methods: Eigenvalues and Normal Modes'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s33_8text.pdf
-type: OCWFile
 uid: 051316d5-fa93-f560-934d-3e410f8d153d
 ---

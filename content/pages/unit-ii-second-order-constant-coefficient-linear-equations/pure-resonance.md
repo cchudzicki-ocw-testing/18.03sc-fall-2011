@@ -5,7 +5,6 @@ parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'
 parent_type: CourseSection
 parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 title: Pure Resonance
-type: CourseSection
 uid: 04f0717c-e427-8b51-ee36-28a4b0f54b1f
 ---
 

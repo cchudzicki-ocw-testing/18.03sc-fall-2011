@@ -5,7 +5,6 @@ parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'
 parent_type: CourseSection
 parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 title: Exponential Response
-type: CourseSection
 uid: afa50382-4b4d-f214-67a3-8bdb6a9d0e27
 ---
 

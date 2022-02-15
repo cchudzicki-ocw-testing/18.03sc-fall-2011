@@ -8,6 +8,5 @@ parent_title: Convolution
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Definition and Properties'
-type: OCWFile
 uid: 9bc9abbd-62a8-15fc-ef84-0fac5202e035
 ---

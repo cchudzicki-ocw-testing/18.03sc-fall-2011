@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Unit III: Fourier Series and Laplace Transform'
-type: CourseSection
 uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 ---
 

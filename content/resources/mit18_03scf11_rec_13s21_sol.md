@@ -9,6 +9,5 @@ parent_title: 'Fourier Series: Basics'
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: 18.03SC Practice Problems 21'
-type: OCWFile
 uid: 3b1b8abd-50d9-b5e6-314f-c189d4032175
 ---

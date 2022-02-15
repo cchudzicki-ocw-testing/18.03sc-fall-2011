@@ -9,6 +9,5 @@ parent_title: Operations on Fourier Series
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_ps5_II_s22s.pdf
-type: OCWFile
 uid: d1ef29a2-80dc-2cac-8796-c6360e778d5a
 ---

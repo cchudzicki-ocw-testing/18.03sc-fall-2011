@@ -8,6 +8,5 @@ parent_title: Geometric Methods
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Part I Problems and Solutions'
-type: OCWFile
 uid: 8832df56-f6af-e5d5-068e-203f50050307
 ---

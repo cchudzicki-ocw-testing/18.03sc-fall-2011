@@ -5,7 +5,6 @@ parent_title: 'Unit I: First Order Differential Equations'
 parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Sinusoidal Functions
-type: CourseSection
 uid: a4e8634f-4a46-e6ae-1032-0d6aed6b9dff
 ---
 

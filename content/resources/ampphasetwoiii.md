@@ -8,6 +8,5 @@ parent_title: Frequency Response and Practical Resonance
 parent_type: CourseSection
 resourcetype: Other
 title: AmpPhaseTwoIII.jar
-type: OCWFile
 uid: aa9bd473-fcb5-f43e-72f9-c7480b922b5c
 ---

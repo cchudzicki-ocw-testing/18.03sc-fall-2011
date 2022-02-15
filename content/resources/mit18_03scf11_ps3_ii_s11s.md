@@ -9,6 +9,5 @@ parent_title: Linear vs. Nonlinear
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Part II Problems and Solutions'
-type: OCWFile
 uid: 6c588744-7f90-46bb-6bf4-b03798738b6c
 ---

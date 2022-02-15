@@ -8,6 +8,5 @@ parent_title: ODE's with Periodic Input, Resonance
 parent_type: CourseSection
 resourcetype: Other
 title: HarmonicFreqRespVarNaturalFreq.jar
-type: OCWFile
 uid: bb8cbedb-c746-e573-148a-d8e9ae89643d
 ---

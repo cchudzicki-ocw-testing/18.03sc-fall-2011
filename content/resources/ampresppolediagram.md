@@ -8,6 +8,5 @@ parent_title: Poles, Amplitude Response, Connection to ERF
 parent_type: CourseSection
 resourcetype: Other
 title: AmpRespPoleDiagram.jar
-type: OCWFile
 uid: 8fe4eca7-4a36-bc97-69d2-fca77052b5dd
 ---

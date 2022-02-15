@@ -12,6 +12,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Image
 title: Mattuck_Photo.jpg
-type: OCWImage
 uid: 592ecc7a-0292-2a84-6c55-e45926764adf
 ---

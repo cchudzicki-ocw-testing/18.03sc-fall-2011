@@ -5,7 +5,6 @@ parent_title: 'Unit III: Fourier Series and Laplace Transform'
 parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: Unit Step and Unit Impulse Response
-type: CourseSection
 uid: ae5a9153-e84a-4720-7bba-52a575f9d6d8
 ---
 

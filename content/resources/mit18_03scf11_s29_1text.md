@@ -9,6 +9,5 @@ parent_title: 'Laplace Transform: Solving Initial Value Problems'
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Table Entries: Derivative Rules'
-type: OCWFile
 uid: 22aba412-6352-ce0f-7693-0d858d8dffa5
 ---

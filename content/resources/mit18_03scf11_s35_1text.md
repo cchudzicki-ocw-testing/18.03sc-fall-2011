@@ -9,6 +9,5 @@ parent_title: Matrix Exponentials
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s35_1text.pdf
-type: OCWFile
 uid: 0576eaa9-72df-1b7d-8c17-0a9a59c8d241
 ---

@@ -12,6 +12,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Image
 title: Miller_Photo.jpg
-type: OCWImage
 uid: 58b3770a-846c-be04-ca90-8161a0dcb360
 ---

@@ -8,6 +8,5 @@ parent_title: First Order Autonomous Differential Equations
 parent_type: CourseSection
 resourcetype: Other
 title: PhaseLines.jar
-type: OCWFile
 uid: efee9433-4a19-6b84-7766-9bc8aeef48c2
 ---

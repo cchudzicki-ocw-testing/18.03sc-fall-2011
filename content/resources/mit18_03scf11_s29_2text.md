@@ -9,6 +9,5 @@ parent_title: 'Laplace Transform: Solving Initial Value Problems'
 parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Precise Definition of Laplace Inverse'
-type: OCWFile
 uid: 93bc4d1f-e9fa-dd1b-4e78-b90566cdc1e7
 ---
