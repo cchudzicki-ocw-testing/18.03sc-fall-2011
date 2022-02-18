@@ -6,9 +6,9 @@ title: 'Unit III: Fourier Series and Laplace Transform'
 uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-second-order-constant-coefficient-linear-equations/exam-2) | [Next]({{< baseurl >}}/pages/unit-iii-fourier-series-and-laplace-transform/fourier-series-basics) »
+« {{< resource_link b56b22eb-c158-12b9-bbbe-8e63d86be91c "Previous" >}} | {{< resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Next" >}} »
 
-![figunit3page.jpg]({{< resource_file eb17af89-aa31-f940-4157-cb04de77386c >}})
+{{< resource eb17af89-aa31-f940-4157-cb04de77386c >}}
 
 Convolution as a superposition of impulse responses. Modeled on the MIT mathlet _Convolution Accumulation._
 
@@ -22,4 +22,4 @@ In the course of this unit, two important ideas will be introduced. The first is
 
 The second important idea is the _delta function_. Up to now all inputs to our systems have caused small changes in a small amount of time. An impulse is an input that causes a sudden jump in the system. For example, a sharp blow to a mass will cause its momentum to jump. The delta function is a mathematical idealization of an impulse and one which allows us to handle DE's with these types of inputs.
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-second-order-constant-coefficient-linear-equations/exam-2) | [Next]({{< baseurl >}}/pages/unit-iii-fourier-series-and-laplace-transform/fourier-series-basics) »
+« {{< resource_link b56b22eb-c158-12b9-bbbe-8e63d86be91c "Previous" >}} | {{< resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Next" >}} »

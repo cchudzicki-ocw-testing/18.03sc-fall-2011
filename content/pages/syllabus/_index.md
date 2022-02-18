@@ -6,7 +6,7 @@ title: Syllabus
 uid: 21829777-b759-4964-a24e-c8685361f3d2
 ---
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | [Next]({{< baseurl >}}/pages/syllabus/meet-the-tas) »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{< resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Next" >}} »
 
 Course Overview
 ---------------
@@ -63,21 +63,21 @@ Meet the Team
 
 ### Content Development
 
-![Miller_Photo.jpg]({{< resource_file 58b3770a-846c-be04-ca90-8161a0dcb360 >}})
+{{< resource 58b3770a-846c-be04-ca90-8161a0dcb360 >}}
 
 Haynes Miller is a Professor of Mathematics at MIT. In 2005 he was an [MIT MacVicar Faculty Fellow](http://web.mit.edu/macvicar/) in recognition of his outstanding contributions to undergraduate education. He has taught 18.03 many times and was the prime mover behind its current design. Professor Miller contributed many of the materials used in this OCW Scholar course. He was also the principal investigator behind the development of the Interactive Java® Demonstrations called [Mathlets](http://math.mit.edu/mathlets/) used here.
 
-![Orloff_Photo.jpg]({{< resource_file 6c5f3cb3-7de2-b55c-05db-357df3867b62 >}})
+{{< resource 6c5f3cb3-7de2-b55c-05db-357df3867b62 >}}
 
 Dr. Jeremy Orloff is a lecturer in the Department of Mathematics and in the [Experimental Study Group](http://esg.mit.edu/) at MIT. He has taught 18.03 many times. Dr. Orloff was the lead content developer of this OCW Scholar course and worked closely with MIT OpenCourseWare on its development.
 
-![JLewis_Photo.jpg]({{< resource_file f63da2e3-f7c5-8c8c-6d5c-f379c8ce0446 >}})
+{{< resource f63da2e3-f7c5-8c8c-6d5c-f379c8ce0446 >}}
 
 Dr. John Lewis is a Research Affiliate and former Senior Lecturer in the Department of Mathematics. He taught 18.03 for many years in the Experimental Study Group and [Concourse](http://web.mit.edu/concourse/www/) programs at MIT, often in collaboration with Dr. Orloff.
 
 ### Video Lectures
 
-![Mattuck_Photo.jpg]({{< resource_file 592ecc7a-0292-2a84-6c55-e45926764adf >}})
+{{< resource 592ecc7a-0292-2a84-6c55-e45926764adf >}}
 
 Arthur Mattuck is an Emeritus Professor of Mathematics at MIT. He has been a major force in the design of undergraduate mathematics classes at MIT. Professor Mattuck taught 18.03 many times and his lecture videos and written notes are used throughout this OCW Scholar course.
 
@@ -86,7 +86,7 @@ Arthur Mattuck is an Emeritus Professor of Mathematics at MIT. He has been a maj
 *   Dr. Lydia Bourouiba
 *   David Shirokoff
 
- _To learn more about the Teaching Assistants, visit the_ [_Meet the TAs_]({{< baseurl >}}/pages/syllabus/meet-the-tas) _page._
+ _To learn more about the Teaching Assistants, visit the_ {{< resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "_Meet the TAs_" >}} _page._
 
 ### Technical and Writing Assistance
 
@@ -99,4 +99,4 @@ Arthur Mattuck is an Emeritus Professor of Mathematics at MIT. He has been a maj
 *   Olga Stroilova
 *   Abiy Fekadu Tasissa
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | [Next]({{< baseurl >}}/pages/syllabus/meet-the-tas) »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{< resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Next" >}} »

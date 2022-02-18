@@ -9,12 +9,12 @@ title: Exam 1
 uid: 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-i-first-order-differential-equations/linear-vs.-nonlinear) | [Next]({{< baseurl >}}/pages/unit-ii-second-order-constant-coefficient-linear-equations) »
+« {{< resource_link d47cf90f-d372-d21c-7812-510ff789a1e0 "Previous" >}} | {{< resource_link 45e768c7-5eb2-5bba-1902-446ed5a94c09 "Next" >}} »
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![exam1.jpg]({{< resource_file a850fa9d-cda5-349b-c270-6e7992943a30 >}})
+{{< resource a850fa9d-cda5-349b-c270-6e7992943a30 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -37,11 +37,11 @@ Check Yourself
 
 Take the practice exam:
 
-*   [Practice Exam 1 and Solutions (PDF)]({{< baseurl >}}/resources/mit18_03scf11_prex1)
+*   {{< resource_link 80399ae4-acee-749e-eb8b-95238219ed01 "Practice Exam 1 and Solutions (PDF)" >}}
 
 Take the unit 1 exam:
 
-*   [Exam 1 (PDF)]({{< baseurl >}}/resources/mit18_03scf11_ex1)
-*   [Exam 1 Solutions (PDF)]({{< baseurl >}}/resources/mit18_03scf11_ex1s)
+*   {{< resource_link 4d2cb217-04c6-71f1-2755-a290e84a01be "Exam 1 (PDF)" >}}
+*   {{< resource_link ccd65b99-476c-55a1-81d6-d3480601b8f8 "Exam 1 Solutions (PDF)" >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-i-first-order-differential-equations/linear-vs.-nonlinear) | [Next]({{< baseurl >}}/pages/unit-ii-second-order-constant-coefficient-linear-equations) »
+« {{< resource_link d47cf90f-d372-d21c-7812-510ff789a1e0 "Previous" >}} | {{< resource_link 45e768c7-5eb2-5bba-1902-446ed5a94c09 "Next" >}} »
