@@ -6,7 +6,7 @@ title: 'Unit I: First Order Differential Equations'
 uid: caf00851-e89b-da65-c746-04b48066d4ec
 ---
 
-« {{< resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Previous" >}} | {{< resource_link 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8 "Next" >}} »
+« {{% resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Previous" %}} | {{% resource_link 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8 "Next" %}} »
 
 {{< resource 39a4708b-3543-c56a-61fc-aa4cc29788fc >}}
 
@@ -20,4 +20,4 @@ The first session covers some of the conventions and prerequisites for the cours
 
 A large part of this unit (and this course) will be spent on linear ODE's. These are fundamental to the understanding of all ODE's and among the most tractable.
 
-« {{< resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Previous" >}} | {{< resource_link 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8 "Next" >}} »
+« {{% resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Previous" %}} | {{% resource_link 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8 "Next" %}} »

@@ -9,7 +9,7 @@ title: Exam 2
 uid: b56b22eb-c158-12b9-bbbe-8e63d86be91c
 ---
 
-« {{< resource_link df3149e1-a7f5-a2cc-28e6-5b462671494e "Previous" >}} | {{< resource_link 7c43a75f-68dd-f5b6-042a-c63be40a5296 "Next" >}} »
+« {{% resource_link df3149e1-a7f5-a2cc-28e6-5b462671494e "Previous" %}} | {{% resource_link 7c43a75f-68dd-f5b6-042a-c63be40a5296 "Next" %}} »
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -32,8 +32,8 @@ When you have reviewed the material and think that you are ready to take the exa
 
 {{< tableclose >}}
 
-*   {{< resource_link d4a24ca8-8c85-1a0c-9283-889d161883ea "Practice Exam 2 and Solutions (PDF)" >}}
-*   {{< resource_link b36640f2-f155-eded-ec38-993c975c56da "Exam 2 (PDF)" >}}
-*   {{< resource_link 6e9208a6-669e-1608-793b-c71991bd787d "Exam 2 Solutions (PDF)" >}}
+*   {{% resource_link d4a24ca8-8c85-1a0c-9283-889d161883ea "Practice Exam 2 and Solutions (PDF)" %}}
+*   {{% resource_link b36640f2-f155-eded-ec38-993c975c56da "Exam 2 (PDF)" %}}
+*   {{% resource_link 6e9208a6-669e-1608-793b-c71991bd787d "Exam 2 Solutions (PDF)" %}}
 
-« {{< resource_link df3149e1-a7f5-a2cc-28e6-5b462671494e "Previous" >}} | {{< resource_link 7c43a75f-68dd-f5b6-042a-c63be40a5296 "Next" >}} »
+« {{% resource_link df3149e1-a7f5-a2cc-28e6-5b462671494e "Previous" %}} | {{% resource_link 7c43a75f-68dd-f5b6-042a-c63be40a5296 "Next" %}} »

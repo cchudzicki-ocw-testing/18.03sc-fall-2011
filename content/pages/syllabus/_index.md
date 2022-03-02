@@ -6,7 +6,7 @@ title: Syllabus
 uid: 21829777-b759-4964-a24e-c8685361f3d2
 ---
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | {{< resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Next" >}} »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Next" %}} »
 
 Course Overview
 ---------------
@@ -86,7 +86,7 @@ Arthur Mattuck is an Emeritus Professor of Mathematics at MIT. He has been a maj
 *   Dr. Lydia Bourouiba
 *   David Shirokoff
 
- _To learn more about the Teaching Assistants, visit the_ {{< resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "_Meet the TAs_" >}} _page._
+ _To learn more about the Teaching Assistants, visit the_ {{% resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "_Meet the TAs_" %}} _page._
 
 ### Technical and Writing Assistance
 
@@ -99,4 +99,4 @@ Arthur Mattuck is an Emeritus Professor of Mathematics at MIT. He has been a maj
 *   Olga Stroilova
 *   Abiy Fekadu Tasissa
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | {{< resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Next" >}} »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Next" %}} »

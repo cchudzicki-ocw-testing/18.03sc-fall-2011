@@ -9,7 +9,7 @@ title: Exam 1
 uid: 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e
 ---
 
-« {{< resource_link d47cf90f-d372-d21c-7812-510ff789a1e0 "Previous" >}} | {{< resource_link 45e768c7-5eb2-5bba-1902-446ed5a94c09 "Next" >}} »
+« {{% resource_link d47cf90f-d372-d21c-7812-510ff789a1e0 "Previous" %}} | {{% resource_link 45e768c7-5eb2-5bba-1902-446ed5a94c09 "Next" %}} »
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -37,11 +37,11 @@ Check Yourself
 
 Take the practice exam:
 
-*   {{< resource_link 80399ae4-acee-749e-eb8b-95238219ed01 "Practice Exam 1 and Solutions (PDF)" >}}
+*   {{% resource_link 80399ae4-acee-749e-eb8b-95238219ed01 "Practice Exam 1 and Solutions (PDF)" %}}
 
 Take the unit 1 exam:
 
-*   {{< resource_link 4d2cb217-04c6-71f1-2755-a290e84a01be "Exam 1 (PDF)" >}}
-*   {{< resource_link ccd65b99-476c-55a1-81d6-d3480601b8f8 "Exam 1 Solutions (PDF)" >}}
+*   {{% resource_link 4d2cb217-04c6-71f1-2755-a290e84a01be "Exam 1 (PDF)" %}}
+*   {{% resource_link ccd65b99-476c-55a1-81d6-d3480601b8f8 "Exam 1 Solutions (PDF)" %}}
 
-« {{< resource_link d47cf90f-d372-d21c-7812-510ff789a1e0 "Previous" >}} | {{< resource_link 45e768c7-5eb2-5bba-1902-446ed5a94c09 "Next" >}} »
+« {{% resource_link d47cf90f-d372-d21c-7812-510ff789a1e0 "Previous" %}} | {{% resource_link 45e768c7-5eb2-5bba-1902-446ed5a94c09 "Next" %}} »

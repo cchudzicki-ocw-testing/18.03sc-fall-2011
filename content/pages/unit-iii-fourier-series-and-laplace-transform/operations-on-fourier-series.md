@@ -9,7 +9,7 @@ title: Operations on Fourier Series
 uid: ca45c161-8345-1041-6c66-419481c20e93
 ---
 
-« {{< resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Previous" >}} | {{< resource_link 09db90b6-761a-caa8-223d-1233e04d9d6d "Next" >}} »
+« {{% resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Previous" %}} | {{% resource_link 09db90b6-761a-caa8-223d-1233e04d9d6d "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,60 +36,60 @@ Session Activities
 
 Read the course notes:
 
-*   {{< resource_link 3ba2a2bb-9c3a-39da-8ca1-ed3aea398448 "Operations on Fourier Series: Introduction (PDF)" >}}
+*   {{% resource_link 3ba2a2bb-9c3a-39da-8ca1-ed3aea398448 "Operations on Fourier Series: Introduction (PDF)" %}}
 
 Complete the practice problem:
 
-*   {{< resource_link 1d40b3df-b30b-f385-531f-63696dc5ccb9 "Exercise: Find the Fourier Series (PDF)" >}}
-*   {{< resource_link 079e4787-ccaa-9ed8-ec7d-e2bee024522f "Answer (PDF)" >}}
+*   {{% resource_link 1d40b3df-b30b-f385-531f-63696dc5ccb9 "Exercise: Find the Fourier Series (PDF)" %}}
+*   {{% resource_link 079e4787-ccaa-9ed8-ec7d-e2bee024522f "Answer (PDF)" %}}
 
 Watch the lecture video clip:
 
-*   {{< resource_link a5623fd6-0f0d-0c35-b948-9a74ba749bc5 "Even and Odd Functions" >}}
+*   {{% resource_link a5623fd6-0f0d-0c35-b948-9a74ba749bc5 "Even and Odd Functions" %}}
 
 Read the course notes:
 
-*   {{< resource_link 64641a5f-e58c-7af6-2f7d-8edf090b79e9 "Even and Odd Functions (PDF)" >}}
-*   {{< resource_link e7501e0f-798e-4c94-c273-c67f205f2386 "Scaling and Shifting (PDF)" >}}
-*   {{< resource_link 40b54a20-f8f8-cdcf-b8ee-12d5aa53123b "Integration and Differentiation (PDF)" >}}
+*   {{% resource_link 64641a5f-e58c-7af6-2f7d-8edf090b79e9 "Even and Odd Functions (PDF)" %}}
+*   {{% resource_link e7501e0f-798e-4c94-c273-c67f205f2386 "Scaling and Shifting (PDF)" %}}
+*   {{% resource_link 40b54a20-f8f8-cdcf-b8ee-12d5aa53123b "Integration and Differentiation (PDF)" %}}
 
 Watch the lecture video clip:
 
-*   {{< resource_link 63d1dc2f-3d77-a429-84c8-5b9daab53240 "Convergence of Fourier Series" >}}
+*   {{% resource_link 63d1dc2f-3d77-a429-84c8-5b9daab53240 "Convergence of Fourier Series" %}}
 
 Read the course notes:
 
-*   {{< resource_link 8e4435af-a419-0fbe-a3a4-62ee8f00a795 "Convergence of Fourier Series (PDF)" >}}
-*   {{< resource_link 8a79dd44-f3ff-7a51-a669-a799231563d4 "The Meaning of Fourier Series (PDF)" >}}
-*   {{< resource_link 05cce833-730f-fd3c-39f4-20a41ad82fd6 "Gibbs Phenomenon (PDF)" >}}
+*   {{% resource_link 8e4435af-a419-0fbe-a3a4-62ee8f00a795 "Convergence of Fourier Series (PDF)" %}}
+*   {{% resource_link 8a79dd44-f3ff-7a51-a669-a799231563d4 "The Meaning of Fourier Series (PDF)" %}}
+*   {{% resource_link 05cce833-730f-fd3c-39f4-20a41ad82fd6 "Gibbs Phenomenon (PDF)" %}}
 
 Learn from the Mathlet materials:
 
-*   Watch the video {{< resource_link e79b4f74-90db-20fb-99f6-aab2b4881c65 "Exploration of the Fourier Coefficient Applet" >}}
+*   Watch the video {{% resource_link e79b4f74-90db-20fb-99f6-aab2b4881c65 "Exploration of the Fourier Coefficient Applet" %}}
 *   Work with the [Fourier Coefficients Applet](/ans7870/18/18.03SC/fourierCoefficients.html "Open in a new window.")
 
 Read the course notes:
 
-*   {{< resource_link e8958b64-c161-d84d-cf76-80d46bf62c86 "Application to Infinite Series (PDF)" >}}
+*   {{% resource_link e8958b64-c161-d84d-cf76-80d46bf62c86 "Application to Infinite Series (PDF)" %}}
 
 Watch the problem solving video:
 
-*   {{< resource_link 6389d1d6-955f-f84a-2d09-df17e803357e "Manipulating Fourier Series" >}}
+*   {{% resource_link 6389d1d6-955f-f84a-2d09-df17e803357e "Manipulating Fourier Series" %}}
 
 Complete the practice problems:
 
-*   {{< resource_link f32f435a-af6a-534f-713f-f37d24e70a8a "Practice Problems 22 (PDF)" >}}
-*   {{< resource_link 1f4245ec-c3c2-8571-40bf-26316ff00fa8 "Practice Problems 22 Solutions (PDF)" >}}
+*   {{% resource_link f32f435a-af6a-534f-713f-f37d24e70a8a "Practice Problems 22 (PDF)" %}}
+*   {{% resource_link 1f4245ec-c3c2-8571-40bf-26316ff00fa8 "Practice Problems 22 Solutions (PDF)" %}}
 
 Check Yourself
 --------------
 
 Complete the problem sets:
 
-*   {{< resource_link d721bf63-d040-ec26-ab94-63ffbdaaf15a "Problem Set Part I Problems (PDF)" >}}
-*   {{< resource_link 090e4606-6e35-e880-3ad7-5e37df31e6ae "Problem Set Part I Solutions (PDF)" >}}
+*   {{% resource_link d721bf63-d040-ec26-ab94-63ffbdaaf15a "Problem Set Part I Problems (PDF)" %}}
+*   {{% resource_link 090e4606-6e35-e880-3ad7-5e37df31e6ae "Problem Set Part I Solutions (PDF)" %}}
   
-*   {{< resource_link 0ff791e5-3fec-58c0-71bd-45ac1c0282b2 "Problem Set Part II Problems (PDF)" >}}
-*   {{< resource_link d1ef29a2-80dc-2cac-8796-c6360e778d5a "Problem Set Part II Solutions (PDF)" >}}
+*   {{% resource_link 0ff791e5-3fec-58c0-71bd-45ac1c0282b2 "Problem Set Part II Problems (PDF)" %}}
+*   {{% resource_link d1ef29a2-80dc-2cac-8796-c6360e778d5a "Problem Set Part II Solutions (PDF)" %}}
 
-« {{< resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Previous" >}} | {{< resource_link 09db90b6-761a-caa8-223d-1233e04d9d6d "Next" >}} »
+« {{% resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Previous" %}} | {{% resource_link 09db90b6-761a-caa8-223d-1233e04d9d6d "Next" %}} »

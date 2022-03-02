@@ -9,7 +9,7 @@ title: Exam 3
 uid: 42e32e71-9d56-c0b7-cd8c-8410df86ad39
 ---
 
-« {{< resource_link 9caaa587-c1e7-c531-0115-9c1470153038 "Previous" >}} | {{< resource_link 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0 "Next" >}} »
+« {{% resource_link 9caaa587-c1e7-c531-0115-9c1470153038 "Previous" %}} | {{% resource_link 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0 "Next" %}} »
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -32,8 +32,8 @@ When you have reviewed the material and think that you are ready to take the exa
 
 {{< tableclose >}}
 
-*   {{< resource_link 652154f4-bd5d-4801-8e3a-483e1e42095a "Practice Exam 3 and Solutions (PDF)" >}}
-*   {{< resource_link b6de7db6-73b9-10b0-1aa1-5d25099405b1 "Exam 3 (PDF)" >}}
-*   {{< resource_link dde2cd40-577f-3e05-d8d8-5a990ed59499 "Exam 3 Solutions (PDF)" >}}
+*   {{% resource_link 652154f4-bd5d-4801-8e3a-483e1e42095a "Practice Exam 3 and Solutions (PDF)" %}}
+*   {{% resource_link b6de7db6-73b9-10b0-1aa1-5d25099405b1 "Exam 3 (PDF)" %}}
+*   {{% resource_link dde2cd40-577f-3e05-d8d8-5a990ed59499 "Exam 3 Solutions (PDF)" %}}
 
-« {{< resource_link 9caaa587-c1e7-c531-0115-9c1470153038 "Previous" >}} | {{< resource_link 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0 "Next" >}} »
+« {{% resource_link 9caaa587-c1e7-c531-0115-9c1470153038 "Previous" %}} | {{% resource_link 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0 "Next" %}} »

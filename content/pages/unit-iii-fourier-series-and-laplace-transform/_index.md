@@ -6,7 +6,7 @@ title: 'Unit III: Fourier Series and Laplace Transform'
 uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 ---
 
-« {{< resource_link b56b22eb-c158-12b9-bbbe-8e63d86be91c "Previous" >}} | {{< resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Next" >}} »
+« {{% resource_link b56b22eb-c158-12b9-bbbe-8e63d86be91c "Previous" %}} | {{% resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Next" %}} »
 
 {{< resource eb17af89-aa31-f940-4157-cb04de77386c >}}
 
@@ -22,4 +22,4 @@ In the course of this unit, two important ideas will be introduced. The first is
 
 The second important idea is the _delta function_. Up to now all inputs to our systems have caused small changes in a small amount of time. An impulse is an input that causes a sudden jump in the system. For example, a sharp blow to a mass will cause its momentum to jump. The delta function is a mathematical idealization of an impulse and one which allows us to handle DE's with these types of inputs.
 
-« {{< resource_link b56b22eb-c158-12b9-bbbe-8e63d86be91c "Previous" >}} | {{< resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Next" >}} »
+« {{% resource_link b56b22eb-c158-12b9-bbbe-8e63d86be91c "Previous" %}} | {{% resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Next" %}} »

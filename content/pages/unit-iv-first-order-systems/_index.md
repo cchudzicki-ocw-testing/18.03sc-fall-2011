@@ -6,7 +6,7 @@ title: 'Unit IV: First-order Systems'
 uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 ---
 
-« {{< resource_link 42e32e71-9d56-c0b7-cd8c-8410df86ad39 "Previous" >}} | {{< resource_link 7704ad07-83f7-1720-a984-a52df1fbe360 "Next" >}} »
+« {{% resource_link 42e32e71-9d56-c0b7-cd8c-8410df86ad39 "Previous" %}} | {{% resource_link 7704ad07-83f7-1720-a984-a52df1fbe360 "Next" %}} »
 
 {{< resource 1843360a-2a3e-1d5b-d992-7461af033724 >}}
 
@@ -22,4 +22,4 @@ As usual, we start with the linear case. Even for linear systems, though, it tur
 
 We finish this unit by showing some of the qualitative theory of DE's for systems, linear and non-linear. Qualitative theory means finding out information about the solutions directly from the DE without actually having to solve it. We start with the linear case, and then show how we can use the results for linear constant-coefficient systems to gain information about certain non-linear systems using a technique called linearization.
 
-« {{< resource_link 42e32e71-9d56-c0b7-cd8c-8410df86ad39 "Previous" >}} | {{< resource_link 7704ad07-83f7-1720-a984-a52df1fbe360 "Next" >}} »
+« {{% resource_link 42e32e71-9d56-c0b7-cd8c-8410df86ad39 "Previous" %}} | {{% resource_link 7704ad07-83f7-1720-a984-a52df1fbe360 "Next" %}} »

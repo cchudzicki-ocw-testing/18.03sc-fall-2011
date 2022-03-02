@@ -6,7 +6,7 @@ title: 'Unit II: Second Order Constant Coefficient Linear Equations'
 uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 ---
 
-« {{< resource_link 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e "Previous" >}} | {{< resource_link dde9f135-842a-7894-459c-d501349e5235 "Next" >}} »
+« {{% resource_link 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e "Previous" %}} | {{% resource_link dde9f135-842a-7894-459c-d501349e5235 "Next" %}} »
 
 {{< resource e16738de-fccd-9df7-b2d1-6b9f76a2aec3 >}}
 
@@ -32,4 +32,4 @@ we will concentrate much of our attention on the important case of a sinusoidal 
 
 We will run an interpretation of the results as the behavior of a physical system in parallel with the mathematical methods and formulas, in order to have a concrete way to understand and visualize what these results mean. We will use a spring-mass mechanical system for the most part, since it is easy to picture. At the end of the unit we will also explore the application of this theory to electrical circuits, which is another very important use of these mathematical methods.
 
-« {{< resource_link 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e "Previous" >}} | {{< resource_link dde9f135-842a-7894-459c-d501349e5235 "Next" >}} »
+« {{% resource_link 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e "Previous" %}} | {{% resource_link dde9f135-842a-7894-459c-d501349e5235 "Next" %}} »

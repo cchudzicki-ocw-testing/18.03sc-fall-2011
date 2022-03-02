@@ -9,7 +9,7 @@ title: Linear vs. Nonlinear
 uid: d47cf90f-d372-d21c-7812-510ff789a1e0
 ---
 
-« {{< resource_link 6d4be452-872f-f9e1-8e76-8fba5cb7a232 "Previous" >}} | {{< resource_link 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e "Next" >}} »
+« {{% resource_link 6d4be452-872f-f9e1-8e76-8fba5cb7a232 "Previous" %}} | {{% resource_link 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,16 +36,16 @@ Session Activities
 
 Read the course notes:
 
-*   {{< resource_link 9bd3f75b-7d91-c984-2dbf-a72924ed7b5d "Linear vs. Nonlinear (PDF)" >}}
+*   {{% resource_link 9bd3f75b-7d91-c984-2dbf-a72924ed7b5d "Linear vs. Nonlinear (PDF)" %}}
 
 Check Yourself
 --------------
 
 Complete the problem set:
 
-*   {{< resource_link 1ca70da1-1005-987e-e3ee-013e0b65a19b "Problem Set Part II Problems (PDF)" >}}
-*   {{< resource_link 6c588744-7f90-46bb-6bf4-b03798738b6c "Problem Set Part II Solutions (PDF)" >}}
+*   {{% resource_link 1ca70da1-1005-987e-e3ee-013e0b65a19b "Problem Set Part II Problems (PDF)" %}}
+*   {{% resource_link 6c588744-7f90-46bb-6bf4-b03798738b6c "Problem Set Part II Solutions (PDF)" %}}
 
  (Note: There is no Problem Set Part I in this session).
 
-« {{< resource_link 6d4be452-872f-f9e1-8e76-8fba5cb7a232 "Previous" >}} | {{< resource_link 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e "Next" >}} »
+« {{% resource_link 6d4be452-872f-f9e1-8e76-8fba5cb7a232 "Previous" %}} | {{% resource_link 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e "Next" %}} »

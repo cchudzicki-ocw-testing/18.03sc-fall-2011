@@ -6,7 +6,7 @@ title: Final Exam
 uid: 9f0caa10-7141-eae0-f9cf-534cf2596c02
 ---
 
-« {{< resource_link d738c767-d051-1230-6ae5-07fea563425d "Previous" >}}
+« {{% resource_link d738c767-d051-1230-6ae5-07fea563425d "Previous" %}}
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -34,10 +34,10 @@ Check Yourself
 
 Complete the final exam:
 
-*   {{< resource_link 7a97822f-443c-079f-10d1-271dc79fcd6b "Practice Final Exam (PDF)" >}}
-*   {{< resource_link ba5cbe0e-46b2-eee1-6d3d-786ed2214f53 "Practice Final Exam Solutions (PDF)" >}}
+*   {{% resource_link 7a97822f-443c-079f-10d1-271dc79fcd6b "Practice Final Exam (PDF)" %}}
+*   {{% resource_link ba5cbe0e-46b2-eee1-6d3d-786ed2214f53 "Practice Final Exam Solutions (PDF)" %}}
   
-*   {{< resource_link e445f254-c022-b3ec-9308-5b24bfe644f2 "Final Exam (PDF)" >}}
-*   {{< resource_link 32c874bb-3b32-cec6-038d-bb1ec6ca61a9 "Final Exam Solutions (PDF)" >}}
+*   {{% resource_link e445f254-c022-b3ec-9308-5b24bfe644f2 "Final Exam (PDF)" %}}
+*   {{% resource_link 32c874bb-3b32-cec6-038d-bb1ec6ca61a9 "Final Exam Solutions (PDF)" %}}
 
-« {{< resource_link d738c767-d051-1230-6ae5-07fea563425d "Previous" >}}
+« {{% resource_link d738c767-d051-1230-6ae5-07fea563425d "Previous" %}}

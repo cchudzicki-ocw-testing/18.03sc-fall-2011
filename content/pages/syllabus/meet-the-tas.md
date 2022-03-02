@@ -9,7 +9,7 @@ title: Meet the TAs
 uid: 26908f85-4e2c-8f70-f855-103e2a50f442
 ---
 
-« {{< resource_link 21829777-b759-4964-a24e-c8685361f3d2 "Previous" >}} | {{< resource_link caf00851-e89b-da65-c746-04b48066d4ec "Next" >}} »
+« {{% resource_link 21829777-b759-4964-a24e-c8685361f3d2 "Previous" %}} | {{% resource_link caf00851-e89b-da65-c746-04b48066d4ec "Next" %}} »
 
 {{< resource e37c63ce-e599-15c4-e2ce-1910dc246aef >}} **Lydia Bourouiba**  
 _Hi, my name is Lydia and I am one of your instructors for the 18.03 class in Differential Equations. The concepts covered in this class are fundamental for your future studies in science and engineering. However, in addition to fundamental tools and techniques, this class will introduce you to mathematical modeling and concepts from dynamical systems that illustrate how mathematics can be used to describe many real world problems. And it's fun, so enjoy the class!_
@@ -21,4 +21,4 @@ _Hi, I'm Dave and welcome to 18.03. This course is a great backbone math class f
 
 David Shirokoff grew up in Welland (ON) Canada and completed his undergrad at the University of Toronto. He recently finished his Ph.D. at MIT in applied math under the supervision of Ruben Rosales. His research interests are in applied differential equations, dynamical systems and numerical methods.
 
-« {{< resource_link 21829777-b759-4964-a24e-c8685361f3d2 "Previous" >}} | {{< resource_link caf00851-e89b-da65-c746-04b48066d4ec "Next" >}} »
+« {{% resource_link 21829777-b759-4964-a24e-c8685361f3d2 "Previous" %}} | {{% resource_link caf00851-e89b-da65-c746-04b48066d4ec "Next" %}} »
