@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Sinusoidal Input'
 uid: 56aa808c-3a19-3675-f2c6-2ed8c6c836f9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

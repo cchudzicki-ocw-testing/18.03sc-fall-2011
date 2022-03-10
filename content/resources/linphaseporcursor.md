@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: LinPhasePorCursor.jar
 uid: 250ae708-1d83-a6e9-4258-bb1c2687d7c9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

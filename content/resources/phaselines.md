@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: PhaseLines.jar
 uid: efee9433-4a19-6b84-7766-9bc8aeef48c2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

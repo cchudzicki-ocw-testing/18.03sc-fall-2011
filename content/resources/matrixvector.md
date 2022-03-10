@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: MatrixVector.jar
 uid: 1a955708-a16e-052b-7597-3f8953fe6a72
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

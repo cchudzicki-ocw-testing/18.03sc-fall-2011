@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_ex2s.pdf
 uid: 6e9208a6-669e-1608-793b-c71991bd787d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

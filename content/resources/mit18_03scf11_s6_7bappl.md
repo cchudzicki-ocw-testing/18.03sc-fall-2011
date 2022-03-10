@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s6_7bappl.pdf
 uid: 389f7705-130b-e27a-4765-6a112888fa84
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

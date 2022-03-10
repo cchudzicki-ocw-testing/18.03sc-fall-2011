@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: JLewis_Photo.jpg
 uid: f63da2e3-f7c5-8c8c-6d5c-f379c8ce0446
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

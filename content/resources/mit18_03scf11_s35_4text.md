@@ -12,4 +12,8 @@ resourcetype: Document
 title: '18.03SCF11 text: Existence and Uniqueness and Superposition in the General
   Case'
 uid: 8ae57eb3-92d8-5ce6-9296-5b97dda608fc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

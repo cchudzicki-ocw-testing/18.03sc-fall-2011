@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Table Entries: Derivative Rules'
 uid: 22aba412-6352-ce0f-7693-0d858d8dffa5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

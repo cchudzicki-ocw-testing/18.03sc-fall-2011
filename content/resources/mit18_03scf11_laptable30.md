@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_laptable30.pdf
 uid: 92358abc-68cc-a225-5b2a-6ed6d1fa8974
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

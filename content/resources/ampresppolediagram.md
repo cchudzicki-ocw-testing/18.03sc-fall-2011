@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: AmpRespPoleDiagram.jar
 uid: 8fe4eca7-4a36-bc97-69d2-fca77052b5dd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

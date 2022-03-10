@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_ps5_II_s20s.pdf
 uid: 3cacbde6-e024-e855-7b5d-58420ed5544c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

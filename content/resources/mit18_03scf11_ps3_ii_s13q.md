@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_ps3_II_s13q.pdf
 uid: fa6c2637-ff20-70b6-b8a3-817b4fce9c28
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

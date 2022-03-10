@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: HarmonicFreqRespVarNaturalFreq.jar
 uid: bb8cbedb-c746-e573-148a-d8e9ae89643d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

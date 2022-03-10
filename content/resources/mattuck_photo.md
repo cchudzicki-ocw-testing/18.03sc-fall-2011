@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Mattuck_Photo.jpg
 uid: 592ecc7a-0292-2a84-6c55-e45926764adf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

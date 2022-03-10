@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 applet: Applet Exploration: Trigonometric Identity'
 uid: 0748b042-2dfa-df10-b59c-bbff33d90530
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Orloff_Photo.jpg
 uid: 6c5f3cb3-7de2-b55c-05db-357df3867b62
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

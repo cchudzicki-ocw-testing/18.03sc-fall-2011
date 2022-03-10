@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Miller_Photo.jpg
 uid: 58b3770a-846c-be04-ca90-8161a0dcb360
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

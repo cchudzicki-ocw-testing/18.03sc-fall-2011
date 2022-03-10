@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 title: Exponential Response
 uid: afa50382-4b4d-f214-67a3-8bdb6a9d0e27
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link fcc68029-d25e-a966-8f8d-74338ab4c023 "Previous" %}} | {{% resource_link c8408cf2-8d7b-0ccf-f919-cc7e5cf977ce "Next" %}} »

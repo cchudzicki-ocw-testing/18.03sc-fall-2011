@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: exam2.jpg
 uid: 2643355d-e485-9af8-2a43-0c199041f481
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

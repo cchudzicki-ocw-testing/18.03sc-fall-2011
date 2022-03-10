@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: 'Step and Delta Functions: Integrals and Generalized Derivatives'
 uid: e1ac4e84-0236-d0ba-8b39-96546ae414c9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 09db90b6-761a-caa8-223d-1233e04d9d6d "Previous" %}} | {{% resource_link ae5a9153-e84a-4720-7bba-52a575f9d6d8 "Next" %}} »

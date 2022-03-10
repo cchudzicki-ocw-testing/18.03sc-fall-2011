@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: The Characteristic Polynomial'
 uid: 8a67e7e0-c66a-f86d-1f68-0c115755b981
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

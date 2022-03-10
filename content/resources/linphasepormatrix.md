@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: LinPhasePorMatrix.jar
 uid: 9b96870f-5f35-c991-e230-95143312a8ce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

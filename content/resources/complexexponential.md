@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: ComplexExponential.jar
 uid: d17db530-117b-0d2a-d0b0-15af8467f3e9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

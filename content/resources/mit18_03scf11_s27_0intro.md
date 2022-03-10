@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s27_0intro.pdf
 uid: f624c6a2-3c56-b1fb-fe1e-a978006f305e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

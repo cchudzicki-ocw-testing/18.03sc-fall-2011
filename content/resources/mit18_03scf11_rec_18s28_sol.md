@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_rec_18s28_sol.pdf
 uid: 7aad8367-e0c0-52f1-8751-d12d9623bd6e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

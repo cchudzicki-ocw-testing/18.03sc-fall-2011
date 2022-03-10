@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Final Exam
 uid: 9f0caa10-7141-eae0-f9cf-534cf2596c02
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link d738c767-d051-1230-6ae5-07fea563425d "Previous" %}}

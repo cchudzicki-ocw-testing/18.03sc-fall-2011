@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 21829777-b759-4964-a24e-c8685361f3d2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Next" %}} »

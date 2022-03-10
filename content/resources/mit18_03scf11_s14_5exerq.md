@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s14_5exerq.pdf
 uid: edda0f49-6062-fb9c-46f7-715c4e76a926
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

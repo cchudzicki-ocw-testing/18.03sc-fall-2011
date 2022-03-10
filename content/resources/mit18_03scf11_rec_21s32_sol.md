@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: 18.03SC Practice Problems 32'
 uid: 8615b6eb-4d8f-6734-8a2b-5563b4c49c66
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_rec_05s9.pdf
 uid: feecf692-e6a5-07b0-04db-a34b20ccd847
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

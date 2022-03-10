@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit I: First Order Differential Equations'
 uid: caf00851-e89b-da65-c746-04b48066d4ec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Previous" %}} | {{% resource_link 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8 "Next" %}} »

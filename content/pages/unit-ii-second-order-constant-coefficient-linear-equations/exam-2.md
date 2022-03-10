@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 title: Exam 2
 uid: b56b22eb-c158-12b9-bbbe-8e63d86be91c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link df3149e1-a7f5-a2cc-28e6-5b462671494e "Previous" %}} | {{% resource_link 7c43a75f-68dd-f5b6-042a-c63be40a5296 "Next" %}} »

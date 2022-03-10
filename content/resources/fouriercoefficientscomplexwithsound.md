@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: FourierCoefficientsComplexWithSound.jar
 uid: 91357d00-1d5e-badf-bb15-14941327c040
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: ConvAccum.jar
 uid: e27a5c1a-1e5b-4271-8f03-10c5f8b5e24e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

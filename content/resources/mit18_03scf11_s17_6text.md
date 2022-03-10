@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Proof of the Generalized Exponential Response Formula'
 uid: 126a06d9-ea3f-580d-fb26-d5b17aa4832b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

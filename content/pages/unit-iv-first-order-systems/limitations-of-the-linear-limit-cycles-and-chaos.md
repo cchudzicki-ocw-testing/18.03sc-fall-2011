@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: 'Limitations of the Linear: Limit Cycles and Chaos'
 uid: d738c767-d051-1230-6ae5-07fea563425d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 63e076a5-12fb-f523-d18c-f5b9e2d4929d "Previous" %}} | {{% resource_link 9f0caa10-7141-eae0-f9cf-534cf2596c02 "Next" %}} »

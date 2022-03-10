@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 title: Linear Operators, Linear Time Invariance
 uid: 1db21ff5-54d4-5578-7a77-bcaa06755e55
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 997c993c-eb52-2721-308a-867f2c1e5ac3 "Previous" %}} | {{% resource_link 04f0717c-e427-8b51-ee36-28a4b0f54b1f "Next" %}} »

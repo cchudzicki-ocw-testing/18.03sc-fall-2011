@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: Linearization Near Critical Points
 uid: 63e076a5-12fb-f523-d18c-f5b9e2d4929d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 41d04e83-6507-882b-4b90-c8e3f524091e "Previous" %}} | {{% resource_link d738c767-d051-1230-6ae5-07fea563425d "Next" %}} »

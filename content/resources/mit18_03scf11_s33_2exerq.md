@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s33_2exerq.pdf
 uid: 1d34af69-a992-1485-df73-49f77027d12a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

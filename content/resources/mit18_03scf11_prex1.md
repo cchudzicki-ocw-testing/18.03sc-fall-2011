@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: 18.03SC Unit 1 Practice Exam and Solutions'
 uid: 80399ae4-acee-749e-eb8b-95238219ed01
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

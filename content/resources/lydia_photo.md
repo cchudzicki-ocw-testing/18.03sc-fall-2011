@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Lydia_photo.jpg
 uid: e37c63ce-e599-15c4-e2ce-1910dc246aef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

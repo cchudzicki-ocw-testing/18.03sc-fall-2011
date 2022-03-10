@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Pole Diagrams'
 uid: 240f3b11-fd6c-1d81-f8e1-ed61e1683d8a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

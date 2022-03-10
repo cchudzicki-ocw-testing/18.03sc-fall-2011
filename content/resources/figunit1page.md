@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: figunit1page.jpg
 uid: 39a4708b-3543-c56a-61fc-aa4cc29788fc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

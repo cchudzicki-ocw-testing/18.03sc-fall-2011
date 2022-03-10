@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Second order Unit Impulse Response'
 uid: dc47b92b-968a-26da-6b7d-3b14036feb51
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

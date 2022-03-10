@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 title: Damped Harmonic Oscillators
 uid: fcc68029-d25e-a966-8f8d-74338ab4c023
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link dde9f135-842a-7894-459c-d501349e5235 "Previous" %}} | {{% resource_link afa50382-4b4d-f214-67a3-8bdb6a9d0e27 "Next" %}} »

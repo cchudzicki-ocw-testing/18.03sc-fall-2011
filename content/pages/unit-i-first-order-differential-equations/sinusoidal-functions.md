@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Sinusoidal Functions
 uid: a4e8634f-4a46-e6ae-1032-0d6aed6b9dff
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 69221f05-4c8b-250b-3c36-eaf8a4e65a9f "Previous" %}} | {{% resource_link 3689226a-36ca-8c2d-8d7f-34ad74678477 "Next" %}} »

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: SeriesRLCCircuit.jar
 uid: 1d35340d-d849-0673-66c0-214aa73fdd32
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

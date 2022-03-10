@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit II: Second Order Constant Coefficient Linear Equations'
 uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e "Previous" %}} | {{% resource_link dde9f135-842a-7894-459c-d501349e5235 "Next" %}} »

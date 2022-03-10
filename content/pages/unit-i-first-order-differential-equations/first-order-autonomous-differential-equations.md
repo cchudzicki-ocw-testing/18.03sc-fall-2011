@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: First Order Autonomous Differential Equations
 uid: 6d4be452-872f-f9e1-8e76-8fba5cb7a232
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 4dc0b7d9-6276-143e-0c61-0888caefa273 "Previous" %}} | {{% resource_link d47cf90f-d372-d21c-7812-510ff789a1e0 "Next" %}} »

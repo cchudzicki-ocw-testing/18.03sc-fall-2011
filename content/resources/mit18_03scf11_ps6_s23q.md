@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_ps6_s23q.pdf
 uid: 25c8c4bf-acde-db39-fd6b-bd552c4c447e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

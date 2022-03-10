@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: Exam 3
 uid: 42e32e71-9d56-c0b7-cd8c-8410df86ad39
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 9caaa587-c1e7-c531-0115-9c1470153038 "Previous" %}} | {{% resource_link 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0 "Next" %}} »

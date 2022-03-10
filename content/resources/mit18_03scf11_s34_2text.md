@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s34_2text.pdf
 uid: f64bc0fd-fcaa-dca3-185b-c1cfa495e199
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

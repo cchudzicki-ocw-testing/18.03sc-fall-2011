@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: First Order Linear ODE's
 uid: 0d78ffc3-e5f4-5556-afa4-95492cde6c39
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 54d03b40-8dd2-7385-59db-03f6f1ebac22 "Previous" %}} | {{% resource_link 85e38b6f-c1b6-5066-bdac-31cdc301c1a6 "Next" %}} »

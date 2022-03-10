@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Part II Problems'
 uid: 1ca70da1-1005-987e-e3ee-013e0b65a19b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

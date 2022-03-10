@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: 'Laplace Transform: Basics'
 uid: 39a463dc-beac-67f1-8e36-99b2587d2c7d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 4529e4db-06c2-1cf9-bf59-359267d96fa8 "Previous" %}} | {{% resource_link 13a3393e-1db3-47a0-4aac-5fb088f68093 "Next" %}} »

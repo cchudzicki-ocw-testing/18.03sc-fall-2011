@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 title: Frequency Response and Practical Resonance
 uid: 9b14d5f8-0e2c-13ac-a14c-8d291d554b14
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 04f0717c-e427-8b51-ee36-28a4b0f54b1f "Previous" %}} | {{% resource_link df3149e1-a7f5-a2cc-28e6-5b462671494e "Next" %}} »

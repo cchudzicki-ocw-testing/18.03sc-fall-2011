@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: 'Laplace Transform: Solving Initial Value Problems'
 uid: 50c3fc82-016d-da7d-1826-dba72ff554ed
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 13a3393e-1db3-47a0-4aac-5fb088f68093 "Previous" %}} | {{% resource_link 7aec48b0-f081-8690-a2c7-6f43a870c1a3 "Next" %}} »

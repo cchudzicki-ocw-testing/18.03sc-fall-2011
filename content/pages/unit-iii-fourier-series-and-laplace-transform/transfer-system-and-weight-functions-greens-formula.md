@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: Transfer (System) and Weight Functions, Green's Formula
 uid: 7aec48b0-f081-8690-a2c7-6f43a870c1a3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 50c3fc82-016d-da7d-1826-dba72ff554ed "Previous" %}} | {{% resource_link 9caaa587-c1e7-c531-0115-9c1470153038 "Next" %}} »

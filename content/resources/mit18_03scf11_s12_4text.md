@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Modes and Roots'
 uid: ea91ae82-4e24-6f63-1463-57124f67e7bf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

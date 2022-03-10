@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Impedance'
 uid: f94e3d44-e68b-bf40-2604-a41386d7713b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

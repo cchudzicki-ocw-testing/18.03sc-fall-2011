@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: DampedVib.jar
 uid: ce252f97-35f1-2857-4620-e06d342f44c6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

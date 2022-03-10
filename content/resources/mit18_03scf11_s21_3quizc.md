@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 quiz: Quiz: Cosines with Common Frequecies'
 uid: fa3744fb-15bf-e5d5-dda0-bf3430a7732c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s32_7exera.pdf
 uid: 70864b67-7e64-e0cc-25da-c2ce7ee60923
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

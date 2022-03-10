@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Exam 1
 uid: 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link d47cf90f-d372-d21c-7812-510ff789a1e0 "Previous" %}} | {{% resource_link 45e768c7-5eb2-5bba-1902-446ed5a94c09 "Next" %}} »

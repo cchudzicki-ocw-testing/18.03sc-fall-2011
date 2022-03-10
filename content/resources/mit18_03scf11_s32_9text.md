@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: The Companion Matrix'
 uid: f1cedd18-c1ec-e004-5e03-d9bd8ff63ca8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

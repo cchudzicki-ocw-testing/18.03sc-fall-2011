@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 title: Undetermined Coefficients
 uid: 997c993c-eb52-2721-308a-867f2c1e5ac3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link c8408cf2-8d7b-0ccf-f919-cc7e5cf977ce "Previous" %}} | {{% resource_link 1db21ff5-54d4-5578-7a77-bcaa06755e55 "Next" %}} »

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: General Case: Eigenvalues and Eigenvectors'
 uid: 529e451e-6243-dd52-aae0-f184f882b986
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Laplace: Solving Initial Value Problems'
 uid: 30364347-a653-9066-d841-ffd90fece5b6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

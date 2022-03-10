@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s0_5quiza.pdf
 uid: f26ba633-f03f-1c4f-1244-58af0c107c37
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

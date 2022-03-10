@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Numerical Methods
 uid: 54d03b40-8dd2-7385-59db-03f6f1ebac22
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 86c3ecfb-976d-d6c8-1796-f0e0e78ca617 "Previous" %}} | {{% resource_link 0d78ffc3-e5f4-5556-afa4-95492cde6c39 "Next" %}} »

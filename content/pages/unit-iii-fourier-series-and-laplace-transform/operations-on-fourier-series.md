@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: Operations on Fourier Series
 uid: ca45c161-8345-1041-6c66-419481c20e93
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Previous" %}} | {{% resource_link 09db90b6-761a-caa8-223d-1233e04d9d6d "Next" %}} »

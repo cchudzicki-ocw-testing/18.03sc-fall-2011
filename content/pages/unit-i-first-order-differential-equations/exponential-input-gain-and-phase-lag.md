@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Exponential Input; Gain and Phase Lag
 uid: 4dc0b7d9-6276-143e-0c61-0888caefa273
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 3689226a-36ca-8c2d-8d7f-34ad74678477 "Previous" %}} | {{% resource_link 6d4be452-872f-f9e1-8e76-8fba5cb7a232 "Next" %}} »

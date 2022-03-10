@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Review of Vectors and Matrices'
 uid: dd36d8ca-12ff-afd5-a9d8-f8bf9753a199
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

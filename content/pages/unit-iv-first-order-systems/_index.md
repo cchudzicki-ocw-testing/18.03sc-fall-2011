@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit IV: First-order Systems'
 uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 42e32e71-9d56-c0b7-cd8c-8410df86ad39 "Previous" %}} | {{% resource_link 7704ad07-83f7-1720-a984-a52df1fbe360 "Next" %}} »

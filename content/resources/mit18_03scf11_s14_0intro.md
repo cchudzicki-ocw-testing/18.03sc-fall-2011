@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 intro: Introduction'
 uid: 9b630c3e-dc2f-03d5-819d-6c8835678e5a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

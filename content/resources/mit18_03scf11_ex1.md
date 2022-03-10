@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: 18.03SC Unit 1 Exam'
 uid: 4d2cb217-04c6-71f1-2755-a290e84a01be
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

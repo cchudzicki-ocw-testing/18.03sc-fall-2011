@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: Poles, Amplitude Response, Connection to ERF
 uid: 9caaa587-c1e7-c531-0115-9c1470153038
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 7aec48b0-f081-8690-a2c7-6f43a870c1a3 "Previous" %}} | {{% resource_link 42e32e71-9d56-c0b7-cd8c-8410df86ad39 "Next" %}} »

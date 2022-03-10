@@ -8,4 +8,8 @@ ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: db9e1230-53e8-0a34-dcd3-0d4fb0da628a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

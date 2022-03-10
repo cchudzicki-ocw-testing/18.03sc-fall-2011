@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s19_5appl.pdf
 uid: 202e21ac-d37b-e9cc-50dd-82814caa1d3c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

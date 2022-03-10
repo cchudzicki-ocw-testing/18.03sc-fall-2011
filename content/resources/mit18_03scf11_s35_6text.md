@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: The Normalized Fundamental Matrix'
 uid: 843a866a-caa1-4009-ace6-9ff67c99a0a6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

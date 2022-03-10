@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Conventions and Preliminary Material
 uid: 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link caf00851-e89b-da65-c746-04b48066d4ec "Previous" %}} | {{% resource_link 2f7fcab3-b55b-b888-a9aa-1c209df0024e "Next" %}} »

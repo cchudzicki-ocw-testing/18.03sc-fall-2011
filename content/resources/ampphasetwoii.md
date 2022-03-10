@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: AmpPhaseTwoII.jar
 uid: e3080eaa-901f-5208-6a2b-939774e5d179
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

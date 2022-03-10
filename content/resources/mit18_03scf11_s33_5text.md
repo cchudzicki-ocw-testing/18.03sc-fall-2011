@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Worked Example: Distinct Real Roots'
 uid: 2659ec37-22be-2ef0-4b5a-abf93331329f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Mechanical Vibration System: Driving Through the Spring'
 uid: a8b0a095-4827-8895-711a-50d9babce7ff
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

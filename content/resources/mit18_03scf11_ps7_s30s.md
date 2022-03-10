@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_ps7_s30s.pdf
 uid: 4b2127f7-cb9e-b840-4c92-38b843319709
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

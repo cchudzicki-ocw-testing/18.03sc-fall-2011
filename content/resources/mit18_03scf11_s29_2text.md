@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Precise Definition of Laplace Inverse'
 uid: 93bc4d1f-e9fa-dd1b-4e78-b90566cdc1e7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

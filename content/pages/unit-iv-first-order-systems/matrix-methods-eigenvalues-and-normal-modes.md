@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: 'Matrix Methods: Eigenvalues and Normal Modes'
 uid: e32640ee-078f-3682-feef-7b3ae9a7e8c9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 7704ad07-83f7-1720-a984-a52df1fbe360 "Previous" %}} | {{% resource_link 40ff2d12-b0e9-bf21-b16c-0be6303c5897 "Next" %}} »

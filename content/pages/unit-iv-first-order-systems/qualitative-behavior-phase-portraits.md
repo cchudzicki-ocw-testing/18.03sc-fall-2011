@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: 'Qualitative Behavior: Phase Portraits'
 uid: 40ff2d12-b0e9-bf21-b16c-0be6303c5897
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link e32640ee-078f-3682-feef-7b3ae9a7e8c9 "Previous" %}} | {{% resource_link 740fe4ca-9f7f-5daf-cec7-50013536f3c9 "Next" %}} »

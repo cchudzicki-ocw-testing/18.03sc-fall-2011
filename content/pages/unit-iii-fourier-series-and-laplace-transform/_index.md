@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit III: Fourier Series and Laplace Transform'
 uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link b56b22eb-c158-12b9-bbbe-8e63d86be91c "Previous" %}} | {{% resource_link 074becc5-a6a6-3335-7815-bb2ca82e3a15 "Next" %}} »

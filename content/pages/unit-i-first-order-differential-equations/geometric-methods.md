@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: Geometric Methods
 uid: 86c3ecfb-976d-d6c8-1796-f0e0e78ca617
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 2f7fcab3-b55b-b888-a9aa-1c209df0024e "Previous" %}} | {{% resource_link 54d03b40-8dd2-7385-59db-03f6f1ebac22 "Next" %}} »

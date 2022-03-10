@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 title: Gain and Phase Lag
 uid: c8408cf2-8d7b-0ccf-f919-cc7e5cf977ce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link afa50382-4b4d-f214-67a3-8bdb6a9d0e27 "Previous" %}} | {{% resource_link 997c993c-eb52-2721-308a-867f2c1e5ac3 "Next" %}} »

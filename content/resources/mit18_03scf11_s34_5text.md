@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Trace-Determinant Diagram'
 uid: 06df29b1-358a-b10b-787e-32ae3c050ff1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

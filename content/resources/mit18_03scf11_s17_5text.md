@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Time Invariance'
 uid: a94abb4d-e2e8-ef0c-cb18-8c3f16514719
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

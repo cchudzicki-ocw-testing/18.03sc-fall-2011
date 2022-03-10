@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_s33_2exera.pdf
 uid: 891f0af0-0e26-a530-a1ef-add94831283a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

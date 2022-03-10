@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
 uid: 092c0682-b08e-0eba-48f4-c44bdf9d3da4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.03SCF11 text: Definition and Properties'
 uid: 9bc9abbd-62a8-15fc-ef84-0fac5202e035
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
