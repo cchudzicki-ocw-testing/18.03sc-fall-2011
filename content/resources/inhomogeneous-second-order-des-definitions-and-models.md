@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Inhomogeneous Second Order DE''s: Definitions and Models'
 uid: 10809d62-5ff6-bd51-2d14-fff835b4dd11
 video_files:
