@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Manipulating Fourier Series
 uid: 6389d1d6-955f-f84a-2d09-df17e803357e
 video_files:

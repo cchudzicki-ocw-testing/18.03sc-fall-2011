@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Euler's Method
 uid: c8a72b4b-f404-a4a7-4e6c-7b80ff7c0cbf
 video_files:

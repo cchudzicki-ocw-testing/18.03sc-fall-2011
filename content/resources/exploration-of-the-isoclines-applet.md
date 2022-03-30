@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Exploration of the Isoclines Applet
 uid: d7ba199e-aff4-d8a6-dbd8-8b037f0f5a3e
 video_files:

@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Laplace Transform: Basics'
 uid: 2f0e8519-379f-0a6d-d252-fea424b48cef
 video_files:

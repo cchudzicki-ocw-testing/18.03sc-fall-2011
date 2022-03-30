@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Homogeneous Constant Coefficient Equations: Real Roots'
 uid: eb51eff7-b1fc-dae8-00b7-2f79ebf9ee69
 video_files:

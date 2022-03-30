@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Sinusoidal Functions
 uid: 2a57b425-73a4-7923-81e5-76d13b150aef
 video_files:

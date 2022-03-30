@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Pure Resonance
 uid: 30ffe636-fc59-6777-1402-738c76e06359
 video_files:

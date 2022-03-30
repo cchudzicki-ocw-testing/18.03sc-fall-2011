@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Homogeneous Constant Coefficient Equations: Any Roots'
 uid: e942b6db-2ef8-39b3-98da-05146afcc50b
 video_files:

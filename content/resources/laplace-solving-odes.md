@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Laplace: Solving ODE''s'
 uid: cbe74fab-2af9-8655-a19f-14c56d28654a
 video_files:

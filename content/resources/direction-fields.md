@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Direction Fields
 uid: 2d9d3209-39a3-608a-1942-0ab34f828643
 video_files:

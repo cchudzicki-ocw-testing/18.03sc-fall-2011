@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3000'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2554'
 title: 'Repeated Roots: Critical Damping'
 uid: 02f7774c-a6c4-67d8-2fb9-681e8d58607e
 video_files:

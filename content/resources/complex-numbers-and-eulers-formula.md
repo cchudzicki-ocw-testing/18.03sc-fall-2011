@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Complex Numbers and Euler's Formula
 uid: e1b8b37f-da09-bcb1-d112-d286524d1922
 video_files:

@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Phase Portraits
 uid: 18dabd81-f6c3-c4bd-3901-cd4993d0cc68
 video_files:

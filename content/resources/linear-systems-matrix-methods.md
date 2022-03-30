@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Linear Systems: Matrix Methods'
 uid: 64263044-bb98-247b-d6cc-55c1441ffb1c
 video_files:

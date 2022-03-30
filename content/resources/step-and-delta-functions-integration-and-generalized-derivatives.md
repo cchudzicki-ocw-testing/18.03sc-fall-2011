@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Step and Delta Functions: Integration and Generalized Derivatives'
 uid: fca1fcc9-933a-2adb-1107-d164ef72dbfa
 video_files:
