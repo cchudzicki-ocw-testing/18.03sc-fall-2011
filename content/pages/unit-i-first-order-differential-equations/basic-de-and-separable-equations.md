@@ -60,7 +60,7 @@ Learn from the Mathlet materials:
 
 Watch the problem solving video:
 
-- \[Separable Equations\]({{< baseurl >}}/resources/separable-equations)
+- [Separable Equations]({{< baseurl >}}/resources/separable-equations)
 
 Complete the practice problem:
 
