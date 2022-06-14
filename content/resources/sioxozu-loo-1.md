@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/3fe0cc8ce9bb9a219ff030a880619abc_SioXozu-Loo.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/3fe0cc8ce9bb9a219ff030a880619abc_SioXozu-Loo.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

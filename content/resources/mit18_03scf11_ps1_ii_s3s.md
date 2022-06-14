@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   numerical methods.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/c2e5106b0abe2d5be099031970381d2b_MIT18_03SCF11_ps1_II_s3s.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/c2e5106b0abe2d5be099031970381d2b_MIT18_03SCF11_ps1_II_s3s.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains solutions for the problem statements related to numerical methods.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to solving IVP's.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/99a30c12a38712b15ce19b5cef362428_MIT18_03SCF11_ps7_s29q.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/99a30c12a38712b15ce19b5cef362428_MIT18_03SCF11_ps7_s29q.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains problem statements related to solving IVP's.

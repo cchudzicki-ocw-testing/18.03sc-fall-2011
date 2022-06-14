@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to the transfer function.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/941349ccabc51e8c116a86db62ba6566_MIT18_03SCF11_s30_1text.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/941349ccabc51e8c116a86db62ba6566_MIT18_03SCF11_s30_1text.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to the transfer function.

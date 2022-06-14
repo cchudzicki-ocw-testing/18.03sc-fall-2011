@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   fourier series.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/02be0ab75ded69c8c8eadb04cef9b3d2_MIT18_03SCF11_ps5_s21s.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/02be0ab75ded69c8c8eadb04cef9b3d2_MIT18_03SCF11_ps5_s21s.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains solutions for the problem statements related to fourier series.

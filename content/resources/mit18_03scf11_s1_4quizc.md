@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains choices to the problem statements related to separation
   of variables.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/4f4ff6873941a92b389ffd3c4f103a5e_MIT18_03SCF11_s1_4quizc.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/4f4ff6873941a92b389ffd3c4f103a5e_MIT18_03SCF11_s1_4quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains choices to the problem statements related to separation of variables.

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to resonant response
   formula.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/edda0f496062fb9c46f7715c4e76a926_MIT18_03SCF11_s14_5exerq.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/edda0f496062fb9c46f7715c4e76a926_MIT18_03SCF11_s14_5exerq.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains problem statements related to resonant response formula.

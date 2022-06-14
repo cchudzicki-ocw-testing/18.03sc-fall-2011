@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to transfer functions.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/360809ca9fc9cb15a1e3caf6596c772e_MIT18_03SCF11_ps7_s30q.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/360809ca9fc9cb15a1e3caf6596c772e_MIT18_03SCF11_ps7_s30q.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains problem statements related to transfer functions.

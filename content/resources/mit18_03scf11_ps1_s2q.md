@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the problem statements related to
   geometric methods.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/bc97c6f6a9ab875e96cfceef9f69099c_MIT18_03SCF11_ps1_s2q.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/bc97c6f6a9ab875e96cfceef9f69099c_MIT18_03SCF11_ps1_s2q.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains solutions to the problem statements related to geometric methods.

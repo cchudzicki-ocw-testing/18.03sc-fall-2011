@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to convergence of fourier
   series.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/8e4435afa4190fbea3a462ee8f00a795_MIT18_03SCF11_s22_5text.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/8e4435afa4190fbea3a462ee8f00a795_MIT18_03SCF11_s22_5text.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to convergence of fourier series.

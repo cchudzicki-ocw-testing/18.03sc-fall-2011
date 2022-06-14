@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains problem statements related to pure resonance. '
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/eb21e2869d6f33fe8ff5c4ce9b0e3a0d_MIT18_03SCF11_new_s18q.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/eb21e2869d6f33fe8ff5c4ce9b0e3a0d_MIT18_03SCF11_new_s18q.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains problem statements related to pure resonance. 

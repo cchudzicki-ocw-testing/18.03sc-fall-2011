@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to frequency response and
   practical resonance.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/4f6ba441e3d09f9e87b78dedb89fb1dc_MIT18_03SCF11_s19_2text.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/4f6ba441e3d09f9e87b78dedb89fb1dc_MIT18_03SCF11_s19_2text.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to frequency response and practical resonance.

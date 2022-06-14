@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/aa9bd473fcb5f43e72f9c7480b922b5c_AmpPhaseTwoIII.jar
+file: /courses/18-03sc-differential-equations-fall-2011/aa9bd473fcb5f43e72f9c7480b922b5c_AmpPhaseTwoIII.jar
 file_type: application/java-archive
 learning_resource_types: []
 ocw_type: OCWFile

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/e16738defccd9df7b2d16b9f76a2aec3_figunit2page.jpg
+file: /courses/18-03sc-differential-equations-fall-2011/e16738defccd9df7b2d16b9f76a2aec3_figunit2page.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

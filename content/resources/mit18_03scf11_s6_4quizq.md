@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to complex conjugation.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/e13136416817665af7d6625cd463ecc1_MIT18_03SCF11_s6_4quizq.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/e13136416817665af7d6625cd463ecc1_MIT18_03SCF11_s6_4quizq.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains problem statements related to complex conjugation.

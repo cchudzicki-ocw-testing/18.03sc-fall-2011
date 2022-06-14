@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions for the final exam.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/32c874bb3b32cec6038dbb1ec6ca61a9_MIT18_03SCF11_finals.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/32c874bb3b32cec6038dbb1ec6ca61a9_MIT18_03SCF11_finals.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains solutions for the final exam.

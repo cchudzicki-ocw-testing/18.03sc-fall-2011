@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains choices for the problem statement inflection points.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/e7f2e912d25e3ce7663ecd3f9f3fa4a3_MIT18_03SCF11_s10_6quizc.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/e7f2e912d25e3ce7663ecd3f9f3fa4a3_MIT18_03SCF11_s10_6quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains choices for the problem statement inflection points.

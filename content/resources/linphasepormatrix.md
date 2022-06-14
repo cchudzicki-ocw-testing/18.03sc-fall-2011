@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/9b96870f5f35c991e23095143312a8ce_LinPhasePorMatrix.jar
+file: /courses/18-03sc-differential-equations-fall-2011/9b96870f5f35c991e23095143312a8ce_LinPhasePorMatrix.jar
 file_type: application/java-archive
 learning_resource_types: []
 ocw_type: OCWFile

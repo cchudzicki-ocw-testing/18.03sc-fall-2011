@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains choices for the problem statements related to
   solutions to polynomial input 2.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/635d1cae70618530e33343bc8739a117_MIT18_03SCF11_s16_5quizc.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/635d1cae70618530e33343bc8739a117_MIT18_03SCF11_s16_5quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains choices for the problem statements related to solutions to polynomial input 2.

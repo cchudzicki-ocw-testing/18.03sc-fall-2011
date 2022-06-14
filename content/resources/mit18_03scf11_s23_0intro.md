@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to ODE's with periodic input,
   and resonance.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/9a4161fd1cdf902c8cfedb16ed4258cf_MIT18_03SCF11_s23_0intro.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/9a4161fd1cdf902c8cfedb16ed4258cf_MIT18_03SCF11_s23_0intro.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to ODE's with periodic input, and resonance.

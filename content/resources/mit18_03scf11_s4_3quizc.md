@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains choices for the problem statements related to
   interpret the graph.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/4d95feb8ba35efc5addfb2f4d9ab735c_MIT18_03SCF11_s4_3quizc.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/4d95feb8ba35efc5addfb2f4d9ab735c_MIT18_03SCF11_s4_3quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains choices for the problem statements related to interpret the graph.

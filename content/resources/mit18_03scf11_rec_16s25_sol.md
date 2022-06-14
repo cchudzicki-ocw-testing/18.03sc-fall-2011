@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   impulse response.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/ed7ba4cd2b84971079af0aff21e82983_MIT18_03SCF11_rec_16s25_sol.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/ed7ba4cd2b84971079af0aff21e82983_MIT18_03SCF11_rec_16s25_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains solutions for the problem statements related to impulse response.

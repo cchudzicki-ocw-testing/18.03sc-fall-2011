@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains exam 3.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/b6de7db673b910b01aa15d25099405b1_MIT18_03SCF11_ex3.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/b6de7db673b910b01aa15d25099405b1_MIT18_03SCF11_ex3.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains exam 3.

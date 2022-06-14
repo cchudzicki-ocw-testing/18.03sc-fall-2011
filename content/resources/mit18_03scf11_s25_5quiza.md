@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for problem statements related to unit
   impulse response.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/0b0e9d99f736fb31e49cd496303e8974_MIT18_03SCF11_s25_5quiza.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/0b0e9d99f736fb31e49cd496303e8974_MIT18_03SCF11_s25_5quiza.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains solutions for problem statements related to unit impulse response.

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   periodic input.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/a74d1ec7c76a96169a36a9213e7a3a7f_MIT18_03SCF11_ps6_s23s.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/a74d1ec7c76a96169a36a9213e7a3a7f_MIT18_03SCF11_ps6_s23s.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains solutions for the problem statements related to periodic input.

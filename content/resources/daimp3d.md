@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/ee49d3d653393def3c2e6ecfbbe6da44_Daimp3D.jar
+file: /courses/18-03sc-differential-equations-fall-2011/ee49d3d653393def3c2e6ecfbbe6da44_Daimp3D.jar
 file_type: application/java-archive
 learning_resource_types: []
 ocw_type: OCWFile

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to poles and stability.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/a8b0706dd2f7d811deb867bce13ad3d6_MIT18_03SCF11_s31_3text.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/a8b0706dd2f7d811deb867bce13ad3d6_MIT18_03SCF11_s31_3text.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to poles and stability.

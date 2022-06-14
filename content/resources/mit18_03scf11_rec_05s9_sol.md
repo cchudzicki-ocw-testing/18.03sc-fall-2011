@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   exponential input.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/ab1e98eac3f642f23fa9daab5c8755ca_MIT18_03SCF11_rec_05s9_sol.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/ab1e98eac3f642f23fa9daab5c8755ca_MIT18_03SCF11_rec_05s9_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains solutions for the problem statements related to exponential input.

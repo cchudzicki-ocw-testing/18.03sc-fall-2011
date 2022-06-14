@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains choices for the problem statement related to integrating
   factors.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/adec34048d9a69051d46a6ba60e5e7f6_MIT18_03SCF11_s5_6quizc.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/adec34048d9a69051d46a6ba60e5e7f6_MIT18_03SCF11_s5_6quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains choices for the problem statement related to integrating factors.

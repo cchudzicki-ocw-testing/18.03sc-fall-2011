@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/8fe4eca74a36bc9769d2fca77052b5dd_AmpRespPoleDiagram.jar
+file: /courses/18-03sc-differential-equations-fall-2011/8fe4eca74a36bc9769d2fca77052b5dd_AmpRespPoleDiagram.jar
 file_type: application/java-archive
 learning_resource_types: []
 ocw_type: OCWFile

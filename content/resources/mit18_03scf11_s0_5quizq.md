@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to quiz for ODE.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/2b37d789565243bca69c042dd76fee5c_MIT18_03SCF11_s0_5quizq.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/2b37d789565243bca69c042dd76fee5c_MIT18_03SCF11_s0_5quizq.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to quiz for ODE.

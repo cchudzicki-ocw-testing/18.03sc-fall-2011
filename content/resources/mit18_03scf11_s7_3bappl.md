@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to applet exploration: trigonometric
   identity  .'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/0748b0422dfadf10b59cbbff33d90530_MIT18_03SCF11_s7_3bappl.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/0748b0422dfadf10b59cbbff33d90530_MIT18_03SCF11_s7_3bappl.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to applet exploration: trigonometric identity  .
