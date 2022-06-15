@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on the special case of
+  a linear first order constant coefficient with the input function an exponential.
+  Materials include course notes, practice problems with solutions, a problem solving
+  video, JavaScript Mathlets, and problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: First Order Differential Equations'

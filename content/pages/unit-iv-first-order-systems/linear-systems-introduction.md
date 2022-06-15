@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on solving a system of
+  linear differential equations using elimination. Materials include course notes,
+  lecture video clips, JavaScript Mathlets, a quiz with solutions, practice problems
+  with solutions, a problem solving video, and problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'

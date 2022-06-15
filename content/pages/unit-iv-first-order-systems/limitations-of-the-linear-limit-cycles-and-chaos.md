@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on nonlinear systems with
+  closed trajectories, limit cycles, and chaotic systems. Materials include course
+  notes and lecture video clips.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'

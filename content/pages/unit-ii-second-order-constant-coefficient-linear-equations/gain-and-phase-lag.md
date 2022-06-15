@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on how to express the formulas
+  for exponential response, sinusoidal response, gain and phase lag in the p(D) notation.
+  Materials include course notes, lecture video clips, practice problems with solutions,
+  a problem solving video, and quizzes consisting of problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'

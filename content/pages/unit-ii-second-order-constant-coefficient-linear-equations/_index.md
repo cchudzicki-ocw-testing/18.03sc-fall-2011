@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a unit on second order constant coefficient linear
+  equations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit II: Second Order Constant Coefficient Linear Equations'

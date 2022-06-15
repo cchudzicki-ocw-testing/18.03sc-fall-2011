@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an exam on Fourier series and the Laplace transform,
+  exam solutions, and a practice exam.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Fourier Series and Laplace Transform'

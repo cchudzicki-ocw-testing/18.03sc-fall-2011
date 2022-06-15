@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on solving first order
+  linear equations by integrating factors. Materials include course notes, lecture
+  video clips, practice problems with solutions, a problem solving video, and quizzes
+  consisting of problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: First Order Differential Equations'

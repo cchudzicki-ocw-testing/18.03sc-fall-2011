@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a unit on ordinary differential equations (ODE's)
+  involving only the first derivative.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit I: First Order Differential Equations'

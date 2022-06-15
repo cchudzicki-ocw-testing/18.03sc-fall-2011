@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on a special type of 2x2
+  nonlinear systems called autonomous systems. Materials include course notes, a lecture
+  video clip, JavaScript Mathlets, and a problem set with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'

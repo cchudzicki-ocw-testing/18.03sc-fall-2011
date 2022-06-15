@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides materials for a session introducing notation and
+  terminology for the course. Materials include course notes and a quiz with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: First Order Differential Equations'

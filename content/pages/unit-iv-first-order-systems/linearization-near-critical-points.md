@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on linearization near critical
+  points. Materials include course notes, lecture video clips, a quiz with solutions,
+  problem solving videos, and problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'

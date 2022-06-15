@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on first order linear ordinary
+  differential equations. Materials include course notes, lecture video clips, a problem
+  solving video, and practice problems with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: First Order Differential Equations'

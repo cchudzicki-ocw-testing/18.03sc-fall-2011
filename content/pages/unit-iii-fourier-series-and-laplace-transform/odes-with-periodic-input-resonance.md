@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on solving constant coefficient
+  differential equations with periodic input. Materials include course notes, lecture
+  video clips, practice problems with solutions, a problem solving video, JavaScript
+  Mathlets, and problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Fourier Series and Laplace Transform'

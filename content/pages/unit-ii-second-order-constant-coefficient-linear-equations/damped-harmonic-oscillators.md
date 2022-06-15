@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on damped harmonic oscillators.
+  Materials include course notes, lecture video clips, practice problems with solutions,
+  a problem solving video, JavaScript Mathlets, and problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'

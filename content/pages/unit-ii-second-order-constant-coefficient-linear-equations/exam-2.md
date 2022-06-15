@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an exam on second order constant coefficient linear
+  equations, exam solutions, and a practice exam.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'

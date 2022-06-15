@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a final exam on differential equations, exam solutions,
+  and a practice exam.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Final Exam

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on modes and the characteristic
+  equation. Materials include course notes, lecture video clips, practice problems
+  with solutions, problem solving videos, and quizzes consisting of problem sets with
+  solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'

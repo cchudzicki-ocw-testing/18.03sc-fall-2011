@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on linear versus nonlinear
+  ordinary differential equations. Materials include course notes and a problem set
+  with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: First Order Differential Equations'

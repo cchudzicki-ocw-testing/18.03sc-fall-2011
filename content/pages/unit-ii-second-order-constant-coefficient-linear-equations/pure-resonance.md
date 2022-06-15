@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on constant coefficient
+  linear equations with exponential input. Materials include course notes, a lecture
+  video clip, a problem solving video, and a problem set with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'

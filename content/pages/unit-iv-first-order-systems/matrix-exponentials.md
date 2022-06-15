@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on the basic linear theory
+  for systems, the fundamental matrix, and matrix-vector algebra. Materials include
+  course notes, lecture video clips, practice problems with solutions, a problem solving
+  video, and problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'

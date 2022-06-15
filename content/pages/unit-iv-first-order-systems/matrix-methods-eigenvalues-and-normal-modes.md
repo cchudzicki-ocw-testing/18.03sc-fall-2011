@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on matrix methods for solving
+  constant coefficient linear systems of differential equations. Materials include
+  course notes, lecture video clips, JavaScript Mathlets, practice problems with solutions,
+  problem solving videos, and problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'

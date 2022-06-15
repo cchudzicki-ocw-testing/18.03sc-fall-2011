@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on poles, amplitude response,
+  connection to ERF, and stability. Materials include course notes, JavaScript Mathlets,
+  a problem solving video, and problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Fourier Series and Laplace Transform'

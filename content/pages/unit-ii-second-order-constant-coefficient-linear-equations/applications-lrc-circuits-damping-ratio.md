@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on how to model some basic
+  electrical circuits with constant coefficient differential equations. Materials
+  include course notes, Javascript Mathlets, and a problem set with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'

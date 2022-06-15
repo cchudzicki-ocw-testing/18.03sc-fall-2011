@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on operations on the simple
+  relation between the Laplace transform of a function and the Laplace transform of
+  its derivative. Materials include course notes, practice problems with solutions,
+  a problem solving video, and problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Fourier Series and Laplace Transform'

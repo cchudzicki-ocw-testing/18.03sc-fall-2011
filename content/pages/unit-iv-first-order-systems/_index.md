@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a unit on systems of differential equations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit IV: First-order Systems'

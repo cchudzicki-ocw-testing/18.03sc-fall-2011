@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on unit step and unit impulse
+  response. Materials include course notes, practice problems with solutions, a problem
+  solving video, quizzes, and problem sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Fourier Series and Laplace Transform'
