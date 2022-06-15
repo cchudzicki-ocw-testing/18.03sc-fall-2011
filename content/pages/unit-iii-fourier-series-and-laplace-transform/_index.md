@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a unit on Fourier series and the Laplace transform.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
