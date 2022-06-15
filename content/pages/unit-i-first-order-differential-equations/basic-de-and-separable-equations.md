@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on basic differential equations
+  and separable equations. Materials include course notes, lecture video clips, practice
+  problems with solutions, JavaScript Mathlets, and a quizzes consisting of problem
+  sets with solutions.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
