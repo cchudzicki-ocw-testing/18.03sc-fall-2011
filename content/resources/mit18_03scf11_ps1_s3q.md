@@ -4,6 +4,7 @@ description: This resource contains problem statements related to numerical meth
 file: /courses/18-03sc-differential-equations-fall-2011/42ffb8fa4982b84634d6cf4dd559a6f8_MIT18_03SCF11_ps1_s3q.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Numerical Methods
 parent_type: CourseSection

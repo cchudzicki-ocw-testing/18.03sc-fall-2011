@@ -4,6 +4,7 @@ description: This resource contains solutions for the final exam.
 file: /courses/18-03sc-differential-equations-fall-2011/32c874bb3b32cec6038dbb1ec6ca61a9_MIT18_03SCF11_finals.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection

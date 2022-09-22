@@ -5,6 +5,7 @@ description: This resource contains solutions for the practice problems related 
 file: /courses/18-03sc-differential-equations-fall-2011/20374737c4173fcaedf89bda542ff538_MIT18_03SCF11_s14_5exera.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exponential Response
 parent_type: CourseSection
