@@ -49,7 +49,7 @@ Learn from the Mathlet materials:
 Read the course notes:
 
 - {{% resource_link "0ac4e400-2905-46d3-9481-424d7a42c41d" "Example: Damped Harmonic Oscillator (PDF)" %}}
-- {{% resource_link "73dc3616-51c1-ca91-9da1-2636bc92e48f" "General Case (PDF)" %}}
+- {{% resource_link "33355c62-a862-4f70-8793-485c653e6cfc" "General Case (PDF)" %}}
 
 Watch the lecture video clips:
 
