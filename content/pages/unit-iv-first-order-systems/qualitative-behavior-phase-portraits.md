@@ -47,7 +47,7 @@ Read the course notes:
 - {{% resource_link "08423f49-d8fd-ba79-095d-985a38a6daba" "Sketching More General Linear Systems (PDF)" %}}
 - {{% resource_link "6c180f94-3053-17de-456f-cc67b9900ddd" "Summary (PDF)" %}}
 - {{% resource_link "06df29b1-358a-b10b-787e-32ae3c050ff1" "Trace-Determinant Diagram (PDF)" %}}
-- {{% resource_link "e653f108-a2f0-c6f3-be2c-3feaf7a5e13f" "Appendix: A Computer-Generated Portrait Gallery (PDF)" %}}
+- {{% resource_link "5ee7af0c-e92c-4f44-8082-781d04be67f7" "Appendix: A Computer-Generated Portrait Gallery (PDF)" %}}
 
 Learn from the Mathlet materials:
 
