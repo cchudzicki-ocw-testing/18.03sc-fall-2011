@@ -42,7 +42,7 @@ Watch the lecture video clips:
 
 Read the course notes:
 
-- The Phase Plane (PDF)
+- {{% resource_link "76c19082-3f35-4b20-9583-e7edf1350aa9" "The Phase Plane (PDF)" %}}
 - {{% resource_link "f64bc0fd-fcaa-dca3-185b-c1cfa495e199" "Sketching the Basic Linear Systems (PDF)" %}}
 - {{% resource_link "08423f49-d8fd-ba79-095d-985a38a6daba" "Sketching More General Linear Systems (PDF)" %}}
 - {{% resource_link "6c180f94-3053-17de-456f-cc67b9900ddd" "Summary (PDF)" %}}
