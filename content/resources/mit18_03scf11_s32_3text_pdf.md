@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.03SCF11 text: Review of Vectors and Matrices'
