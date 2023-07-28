@@ -9,8 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Online Textbook
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.03SCF11 text: Part II Problems'
